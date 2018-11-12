@@ -1,0 +1,6 @@
+(S1 ^epmem E1 ^io I1 ^operator O1 + ^operator O1 ^reward-link R1 ^smem L1
+       ^superstate nil ^top-state S1 ^type state)
+  (E1 ^command C1 ^present-id 1 ^result R2)
+  (I1 ^input-link I2 ^output-link I3)
+  (O1 ^name initialize-tanksoar)
+  (L1 ^command C2 ^result R3)
