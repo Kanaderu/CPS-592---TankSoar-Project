@@ -3,7 +3,7 @@ from itertools import product
 from os import environ as env, fsync
 from subprocess import call, check_output, CalledProcessError, STDOUT
 import re
-import Python_sml_ClientInterface as sml
+from lib import Python_sml_ClientInterface as sml
 
 
 # low level Soar functions
