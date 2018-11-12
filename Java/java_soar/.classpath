@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/sml.jar"/>
+	<classpathentry kind="lib" path="lib/Eaters_TankSoar.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
