@@ -1,0 +1,53 @@
+(I2 ^blocked B1 ^clock 7 ^current-score C3 ^direction west ^energy 961
+       ^energyrecharger no ^health 1000 ^healthrecharger no ^incoming I4
+       ^missiles 15 ^my-color yellow ^radar R31 ^radar-distance 12
+       ^radar-setting 13 ^radar-status on ^random 0.709733 ^resurrect no
+       ^rwaves R4 ^shield-status off ^smell I5 ^sound silent ^x 13 ^y 12)
+  (B1 ^backward no ^forward no ^left yes ^right yes)
+  (C3 ^blue 0 ^yellow 0)
+  (I4 ^backward no ^forward no ^left no ^right no)
+  (R31 ^energy E4 ^health H2 ^missiles M10 ^missiles M9 ^obstacle O87
+         ^obstacle O86 ^obstacle O85 ^obstacle O84 ^obstacle O83 ^obstacle O82
+         ^obstacle O81 ^obstacle O88 ^obstacle O62 ^obstacle O63 ^obstacle O64
+         ^obstacle O65 ^obstacle O66 ^obstacle O89 ^obstacle O91 ^obstacle O67
+         ^obstacle O68 ^obstacle O90 ^obstacle O80 ^obstacle O69 ^obstacle O72
+         ^obstacle O71 ^obstacle O70 ^obstacle O61 ^open O74 ^open O75
+         ^open O76 ^open O77 ^open O78 ^open O79 ^open O73 ^tank T2)
+    (E4 ^distance 3 ^position center)
+    (H2 ^distance 6 ^position center)
+    (M10 ^distance 7 ^position center)
+    (M9 ^distance 2 ^position center)
+    (O87 ^distance 7 ^position right)
+    (O86 ^distance 6 ^position right)
+    (O85 ^distance 5 ^position right)
+    (O84 ^distance 4 ^position right)
+    (O83 ^distance 3 ^position right)
+    (O82 ^distance 2 ^position right)
+    (O81 ^distance 1 ^position right)
+    (O88 ^distance 8 ^position right)
+    (O62 ^distance 1 ^position left)
+    (O63 ^distance 2 ^position left)
+    (O64 ^distance 3 ^position left)
+    (O65 ^distance 4 ^position left)
+    (O66 ^distance 5 ^position left)
+    (O89 ^distance 9 ^position right)
+    (O91 ^distance 11 ^position right)
+    (O67 ^distance 6 ^position left)
+    (O68 ^distance 7 ^position left)
+    (O90 ^distance 10 ^position right)
+    (O80 ^distance 0 ^position right)
+    (O69 ^distance 8 ^position left)
+    (O72 ^distance 11 ^position left)
+    (O71 ^distance 10 ^position left)
+    (O70 ^distance 9 ^position left)
+    (O61 ^distance 0 ^position left)
+    (O74 ^distance 4 ^position center)
+    (O75 ^distance 5 ^position center)
+    (O76 ^distance 8 ^position center)
+    (O77 ^distance 9 ^position center)
+    (O78 ^distance 10 ^position center)
+    (O79 ^distance 11 ^position center)
+    (O73 ^distance 1 ^position center)
+    (T2 ^color blue ^distance 12 ^position center)
+  (R4 ^backward no ^forward no ^left no ^right no)
+  (I5 ^color blue ^distance 12)
