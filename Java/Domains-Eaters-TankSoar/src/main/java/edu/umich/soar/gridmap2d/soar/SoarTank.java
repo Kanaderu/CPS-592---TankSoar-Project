@@ -412,6 +412,24 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 				continue;
 			}
 
+			if (commandName.equalsIgnoreCase(Names.kTeamID)) {
+				String team_str = commandId.GetParameterValue(Names.kTeamID);
+				if (team_str == null) {
+					logger.warn(player.getName() + ": null team");
+					commandId.AddStatusError();
+					continue;
+				}
+				
+				try {
+					player.setTeam(Integer.decode(team_str).intValue());
+				} catch (NumberFormatException e) {
+					e.printStackTrace();
+					logger.warn(player.getName() + ": unable to parse TeamID " + team_str + ": " + e.getMessage());
+					commandId.AddStatusError();
+					continue;
+				}
+			}
+			
 			if (commandName.equalsIgnoreCase(Names.kMoveID)) {
 				if (move.move || moveWait) {
 					logger.debug(player.getName() + ": extra move commands");
@@ -877,6 +895,7 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 					CreateStringWME(radarCellIDs[width][height], Names.kPositionID, getPositionID(width));
 					if (state.getRadar()[width][height].player != null) {
 						radarColors[width][height] = CreateStringWME(radarCellIDs[width][height], Names.kColorID, state.getRadar()[width][height].player.getColor());
+						CreateIntWME(radarCellIDs[width][height], Names.kTeamID, state.getRadar()[width][height].player.getTeam());
 						if (logger.isTraceEnabled()) {
 							logger.trace(player.getName() + ": " + height + "," + width + ": " + getCellID(state.getRadar()[width][height]) + " " + state.getRadar()[width][height].player.getColor()); 
 						}
@@ -930,6 +949,7 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 						CreateStringWME(radarCellIDs[width][height], Names.kPositionID, getPositionID(width));
 						if (state.getRadar()[width][height].player != null) {
 							radarColors[width][height] = CreateStringWME(radarCellIDs[width][height], Names.kColorID, state.getRadar()[width][height].player.getColor());
+							CreateIntWME(radarCellIDs[width][height], Names.kTeamID, state.getRadar()[width][height].player.getTeam());
 							if (logger.isTraceEnabled()) {
 								logger.trace(player.getName() + ": " + height + "," + width + ": " + getCellID(state.getRadar()[width][height]) + " " + state.getRadar()[width][height].player.getColor() + " (created)"); 
 							}
@@ -949,6 +969,7 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 							CreateStringWME(radarCellIDs[width][height], Names.kPositionID, getPositionID(width));
 							if (state.getRadar()[width][height].player != null) {
 								radarColors[width][height] = CreateStringWME(radarCellIDs[width][height], Names.kColorID, state.getRadar()[width][height].player.getColor());
+								CreateIntWME(radarCellIDs[width][height], Names.kTeamID, state.getRadar()[width][height].player.getTeam());
 								if (logger.isTraceEnabled()) {
 									logger.trace(player.getName() + ": " + height + "," + width + ": " + getCellID(state.getRadar()[width][height]) + " " + state.getRadar()[width][height].player.getColor()); 
 								}

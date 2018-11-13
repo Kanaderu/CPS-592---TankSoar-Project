@@ -33,6 +33,7 @@ public class TankSoarAgentDisplay extends AgentDisplay {
 	static final int kMissilesWidth = 66;
 	static final int kHealthWidth = 58;
 	static final int kEnergyWidth = 60;
+	static final int kTeamWidth = 55;
 	
 	Group m_Group;
 	Table m_AgentTable;
@@ -88,6 +89,7 @@ public class TankSoarAgentDisplay extends AgentDisplay {
 		TableColumn tc3 = new TableColumn(m_AgentTable, SWT.CENTER);
 		TableColumn tc4 = new TableColumn(m_AgentTable, SWT.CENTER);
 		TableColumn tc5 = new TableColumn(m_AgentTable, SWT.CENTER);
+		TableColumn tc6 = new TableColumn(m_AgentTable, SWT.CENTER);
 		tc1.setText("Name");
 		tc1.setWidth(kNameWidth);
 		tc2.setText("Score");
@@ -98,6 +100,8 @@ public class TankSoarAgentDisplay extends AgentDisplay {
 		tc4.setWidth(kHealthWidth);
 		tc5.setText("Energy");
 		tc5.setWidth(kEnergyWidth);
+		tc6.setText("Team");
+		tc6.setWidth(kTeamWidth);
 		m_AgentTable.setHeaderVisible(true);
 		m_AgentTable.addSelectionListener(new SelectionAdapter() {
 			public void widgetSelected(SelectionEvent e) {
@@ -530,7 +534,8 @@ public class TankSoarAgentDisplay extends AgentDisplay {
 					Integer.toString(tank.getPoints()),
 					Integer.toString(state.getMissiles()),
 					Integer.toString(state.getHealth()),
-					Integer.toString(state.getEnergy())					
+					Integer.toString(state.getEnergy()),
+					Integer.toString(tank.getTeam())
 					});
 			if (selectedPlayer == players[i]) {
 				foundSelected = true;

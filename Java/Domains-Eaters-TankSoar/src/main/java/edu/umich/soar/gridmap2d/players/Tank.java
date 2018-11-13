@@ -42,12 +42,22 @@ public class Tank extends Player {
 	
 	private TankCommander commander;
 	private TankState state;
+	private int team;
+
+	public int getTeam() {
+		return team;
+	}
+
+	public void setTeam(int team) {
+		this.team = team;
+	}
 
 	private Tank(Builder builder) {
 		super(builder.id);
 
 		this.state = new TankState(getName(), builder);
-
+		
+		setTeam(-1);
 		state.clearRadar(); // creates the radar structure
 		reset();
 	}

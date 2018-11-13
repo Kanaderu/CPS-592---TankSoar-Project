@@ -1,0 +1,47 @@
+(S1 ^epmem E1 ^io I1 ^operator O2 + ^operator O25 + ^reward-link R1 ^smem L1
+       ^superstate nil ^top-state S1 ^type state)
+  (E1 ^command C1 ^present-id 1 ^result R2)
+  (I1 ^input-link I2 ^output-link I3)
+    (I2 ^blocked B1 ^clock 2 ^current-score C3 ^direction east ^energy 987
+           ^energyrecharger no ^health 1000 ^healthrecharger no ^incoming I4
+           ^missiles 15 ^my-color red ^radar R16 ^radar-distance 7
+           ^radar-setting 13 ^radar-status on ^random 0.791108 ^resurrect no
+           ^rwaves R4 ^shield-status off ^smell I5 ^sound forward ^x 1 ^y 12)
+      (B1 ^backward yes ^forward no ^left yes ^right yes)
+      (C3 ^blue 0 ^red 0)
+      (I4 ^backward no ^forward no ^left no ^right no)
+      (R16 ^missiles M1 ^obstacle O24 ^obstacle O7 ^obstacle O22 ^obstacle O21
+             ^obstacle O8 ^obstacle O19 ^obstacle O18 ^obstacle O16
+             ^obstacle O17 ^obstacle O6 ^obstacle O10 ^obstacle O14
+             ^obstacle O13 ^obstacle O11 ^open O15 ^open O9 ^open O20
+             ^open O23 ^open O12 ^tank T1)
+        (M1 ^distance 4 ^position center)
+        (O24 ^distance 6 ^position right)
+        (O7 ^distance 0 ^position right)
+        (O22 ^distance 6 ^position left)
+        (O21 ^distance 5 ^position right)
+        (O8 ^distance 1 ^position left)
+        (O19 ^distance 5 ^position left)
+        (O18 ^distance 4 ^position right)
+        (O16 ^distance 3 ^position right)
+        (O17 ^distance 4 ^position left)
+        (O6 ^distance 0 ^position left)
+        (O10 ^distance 1 ^position right)
+        (O14 ^distance 3 ^position left)
+        (O13 ^distance 2 ^position right)
+        (O11 ^distance 2 ^position left)
+        (O15 ^distance 3 ^position center)
+        (O9 ^distance 1 ^position center)
+        (O20 ^distance 5 ^position center)
+        (O23 ^distance 6 ^position center)
+        (O12 ^distance 2 ^position center)
+        (T1 ^color blue ^distance 7 ^position center ^team 0)
+      (R4 ^backward no ^forward no ^left no ^right no)
+      (I5 ^color blue ^distance 7)
+    (I3 ^move V5)
+      (V5 ^direction forward)
+  (O2 ^name initialize-tanksoar)
+  (O25 ^actions A5 ^name move)
+    (A5 ^move M2)
+      (M2 ^direction forward)
+  (L1 ^command C2 ^result R3)

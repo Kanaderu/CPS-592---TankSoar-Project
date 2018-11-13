@@ -167,6 +167,7 @@ public class Names {
 	public static final String kStopSimID = "stop-sim";
 	public static final String kSwitchID = "switch";
 	public static final String kTankID = "tank";
+	public static final String kTeamID = "team";
 	public static final String kWallID = "wall";
 	public static final String kXID = "x";
 	public static final String kYID = "y";
