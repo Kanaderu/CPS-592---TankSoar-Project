@@ -411,9 +411,9 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 				//System.out.println("Status already processed.");
 				continue;
 			}
-
+/*
 			if (commandName.equalsIgnoreCase(Names.kTeamID)) {
-				String team_str = commandId.GetParameterValue(Names.kTeamID);
+				String team_str = commandId.GetParameterValue("value");
 				if (team_str == null) {
 					logger.warn(player.getName() + ": null team");
 					commandId.AddStatusError();
@@ -421,6 +421,8 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 				}
 				
 				try {
+					Gridmap2D.control.errorPopUp("setting team to " + Integer.decode(team_str).intValue());
+					//move.team = Integer.decode(team_str).intValue();
 					player.setTeam(Integer.decode(team_str).intValue());
 				} catch (NumberFormatException e) {
 					e.printStackTrace();
@@ -428,9 +430,9 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 					commandId.AddStatusError();
 					continue;
 				}
-			}
-			
-			if (commandName.equalsIgnoreCase(Names.kMoveID)) {
+				move.teamChange = true;
+				
+			} else */if (commandName.equalsIgnoreCase(Names.kMoveID)) {
 				if (move.move || moveWait) {
 					logger.debug(player.getName() + ": extra move commands");
 					commandId.AddStatusError();
@@ -602,11 +604,49 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 //		}
 		
 		agent.InitSoar();
+
+		//Identifier ol = agent.GetOutputLink();
+		//int numChildren = ol.GetNumberChildren();
+		//Gridmap2D.control.errorPopUp("outputlink has children: " + numChildren);
 		
 //		if (!agent.Commit()) {
 //			Gridmap2D.control.errorPopUp(Names.Errors.commitFail + player.getName());
 //			Gridmap2D.control.stopSimulation();
 //		}
+/*
+		Gridmap2D.control.errorPopUp("Num Commands:" + agent.GetNumberCommands());
+		Gridmap2D.control.errorPopUp("outlink changes:" + agent.GetNumberOutputLinkChanges());
+		Identifier ol = agent.GetOutputLink();
+
+		String t = ol.GetParameterValue(Names.kTeamID);
+		if (t != null) {
+			Gridmap2D.control.errorPopUp("got outputlink :" + t);
+		}
+		Gridmap2D.control.errorPopUp("error getting team parameter");
+		for (int i = 0; i < agent.GetNumberCommands(); ++i) {
+			Identifier commandId = agent.GetCommand(i);
+			String commandName = commandId.GetAttribute();
+			Gridmap2D.control.errorPopUp("commandName: " + commandName);
+			if (commandName.equalsIgnoreCase(Names.kTeamID)) {
+				String team_str = commandId.GetParameterValue(Names.kTeamID);
+				if (team_str == null) {
+					logger.warn(player.getName() + ": null team");
+					commandId.AddStatusError();
+					continue;
+				}
+				
+				try {
+					Gridmap2D.control.errorPopUp("Tried to set to team " + Integer.decode(team_str).intValue());
+					player.setTeam(Integer.decode(team_str).intValue());
+				} catch (NumberFormatException e) {
+					e.printStackTrace();
+					logger.warn(player.getName() + ": unable to parse TeamID " + team_str + ": " + e.getMessage());
+					commandId.AddStatusError();
+					continue;
+				}
+			}
+		}
+*/
 	}
 	
 	public void shutdown() {
@@ -833,7 +873,7 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 		if (m_CurrentScoreWME == null) {
 			return;
 		}
-
+		
 		Set<String> unseen = new HashSet<String>();
 		unseen.add("blue");
 		unseen.add("red");

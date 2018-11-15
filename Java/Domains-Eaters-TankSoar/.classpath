@@ -4,10 +4,9 @@
 	<classpathentry excluding="**/.svn/" kind="src" path="src/main/resources"/>
 	<classpathentry excluding="**/.svn/" kind="src" path="src/test/resources"/>
 	<classpathentry excluding="**/.svn/" kind="src" path="src/test/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="lib/fetchswt.bat"/>
 	<classpathentry kind="lib" path="lib/jcommon-1.0.10.jar"/>
 	<classpathentry kind="lib" path="lib/jfreechart-1.0.6-swt.jar"/>
 	<classpathentry kind="lib" path="lib/jfreechart-1.0.6.jar"/>
@@ -19,5 +18,7 @@
 	<classpathentry kind="lib" path="lib/stopwatch-0.4-with-deps.jar"/>
 	<classpathentry kind="lib" path="lib/swt.jar"/>
 	<classpathentry kind="lib" path="lib/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="lib/fetchswt.bat"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_191"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

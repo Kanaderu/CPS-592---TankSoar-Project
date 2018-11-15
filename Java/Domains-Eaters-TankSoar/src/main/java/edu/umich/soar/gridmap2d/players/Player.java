@@ -25,8 +25,22 @@ public class Player {
 	private int[] location;
 	protected boolean moved;
 	private boolean fragged;
+	
+	private static int counter = 1;
+	private final int team;
 
+	public int getTeam() {
+		return team;
+	}
+
+	/*
+	public void setTeam(int team) {
+		this.team = team;
+	}
+	 */
+	
 	public Player(String playerID) {
+		this.team = counter++ % 2;
 		this.playerID = playerID;
 		this.playerConfig = Gridmap2D.config.playerConfigs().get(playerID);
 		
