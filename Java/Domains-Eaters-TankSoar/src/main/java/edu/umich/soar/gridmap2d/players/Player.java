@@ -26,7 +26,7 @@ public class Player {
 	protected boolean moved;
 	private boolean fragged;
 	
-	private static int counter = 1;
+	private static int counter = 0;
 	private final int team;
 
 	public int getTeam() {
