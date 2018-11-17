@@ -42,6 +42,10 @@ public class Tank extends Player {
 	
 	private TankCommander commander;
 	private TankState state;
+	private int missilesUsed = 0;
+	private int energyUsed = 0;
+	private int deaths = 0;
+	private int kills = 0;
 	
 	private Tank(Builder builder) {
 		super(builder.id);
@@ -52,6 +56,38 @@ public class Tank extends Player {
 		reset();
 	}
 	
+	public int getMissilesUsed() {
+		return missilesUsed;
+	}
+
+	public void appendMissilesUsed(int missilesUsed) {
+		this.missilesUsed += missilesUsed;
+	}
+
+	public int getEnergyUsed() {
+		return energyUsed;
+	}
+
+	public void appendEnergyUsed(int energyUsed) {
+		this.energyUsed += energyUsed;
+	}
+
+	public int getDeaths() {
+		return deaths;
+	}
+
+	public void appendDeaths(int deaths) {
+		this.deaths += deaths;
+	}
+
+	public int getKills() {
+		return kills;
+	}
+
+	public void appendKills(int kills) {
+		this.kills += kills;
+	}
+
 	public void setCommander(TankCommander commander) {
 		this.commander = commander;
 	}

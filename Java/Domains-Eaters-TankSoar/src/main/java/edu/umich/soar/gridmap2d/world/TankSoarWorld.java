@@ -216,6 +216,7 @@ public class TankSoarWorld implements World {
 			if (playerMove.fire) {
 				if (state.getMissiles() > 0) {
 					state.adjustMissiles(-1, "fire");
+					tank.appendMissilesUsed(1);
 					firedTanks.add(tank);
 				} else {
 					logger.debug(tank + ": fired with no ammo");
@@ -388,6 +389,7 @@ public class TankSoarWorld implements World {
 			if (state.getShieldsUp()) {
 				if (state.getEnergy() > 0) {
 					state.adjustEnergy(Gridmap2D.config.tanksoarConfig().shield_energy_usage, "shields");
+					tank.appendEnergyUsed(Math.abs(Gridmap2D.config.tanksoarConfig().shield_energy_usage));
 				} else {
 					logger.debug(tank + ": shields ran out of energy");
 					state.setShieldsUp(false);
@@ -541,12 +543,14 @@ public class TankSoarWorld implements World {
 		// Respawn killed Tanks in safe squares
 		for (Tank tank : killedTanks.keySet()) {
 			// apply points
+			tank.appendDeaths(1);
 			tank.adjustPoints(Gridmap2D.config.tanksoarConfig().frag_penalty, "fragged");
 			assert killedTanks.containsKey(tank);
 			for (Tank assailant : killedTanks.get(tank)) {
 				if (assailant.equals(tank)) {
 					continue;
 				}
+				assailant.appendKills(1);
 				assailant.adjustPoints(Gridmap2D.config.tanksoarConfig().frag_award, "fragged " + tank);
 			}
 			

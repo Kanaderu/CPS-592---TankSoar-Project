@@ -10,6 +10,7 @@ import edu.umich.soar.gridmap2d.Gridmap2D;
 import edu.umich.soar.gridmap2d.map.GridMap;
 import edu.umich.soar.gridmap2d.players.CommandInfo;
 import edu.umich.soar.gridmap2d.players.Player;
+import edu.umich.soar.gridmap2d.players.Tank;
 
 
 public class WorldUtil {
@@ -47,6 +48,13 @@ public class WorldUtil {
 			String statline = player.getName() + ": " + player.getPoints() + " (" + status + ")";
 			logger.info(statline);
 			System.out.println(statline);
+			if(player instanceof Tank) {
+				Tank tankPlayer = (Tank)player;
+				String stats = tankPlayer.getName() + " [Team: " + tankPlayer.getTeam() + "] [Points: " + tankPlayer.getPoints() + "] [Status: " + status +
+						"] [Kills: " + tankPlayer.getKills() + "] [Deaths: " + tankPlayer.getDeaths() + "] [Missiles Fired: " + tankPlayer.getMissilesUsed() + "] [Energy Used:" + tankPlayer.getEnergyUsed() + "]";
+				logger.info(stats);
+				System.out.println(stats);
+			}
 		}
 	}
 
