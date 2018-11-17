@@ -114,6 +114,11 @@ public class Tank extends Player {
 		if (commander != null) {
 			commander.reset();
 		}
+		
+		missilesUsed = 0;
+		energyUsed = 0;
+		deaths = 0;
+		kills = 0;
 	}
 	
 	public TankState getState() {
