@@ -128,6 +128,9 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 		}
 
 		if (m_Reset) {
+			// team
+			m_TeamWME = CreateIntWME(m_InputLink, Names.kTeamID, player.getTeam());
+			
 			// location
 			m_xWME = CreateIntWME(m_InputLink, Names.kXID, player.getLocation()[0]);
 			m_yWME = CreateIntWME(m_InputLink, Names.kYID, player.getLocation()[1]);
@@ -681,6 +684,7 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 	
 	private Map<String, IntElement> m_Scores = new HashMap<String, IntElement>(7);
 	
+	private IntElement m_TeamWME;
 	private StringElement m_DirectionWME;
 	private IntElement m_EnergyWME;
 	private StringElement m_EnergyRechargerWME;
@@ -794,6 +798,9 @@ public class SoarTank implements Agent.RunEventInterface, TankCommander {
 	}
 	
 	private void clearWMEs() {
+		DestroyWME(m_TeamWME);
+		m_TeamWME = null;
+		
 		DestroyWME(m_BlockedWME);
 		m_BlockedWME = null;
 		
