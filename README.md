@@ -1,5 +1,5 @@
 # CPS 592 - TankSoar Project
-Project consists of a modified TankSoar project taken from [here](#https://github.com/SoarGroup/Domains-Eaters-TankSoar). Additionally, sample templates are written in Java and Python to communicated with SOAR using SML. Python also contains a set of tools to generate Graphviz dot graphs as `.png` files from printed states from any SOAR Debugger tools. A python command-line debugger is also in the python toolset.
+Project consists of a modified TankSoar project taken from [here](https://github.com/SoarGroup/Domains-Eaters-TankSoar). Additionally, sample templates are written in Java and Python to communicated with SOAR using SML. Python also contains a set of tools to generate Graphviz dot graphs as `.png` files from printed states from any SOAR Debugger tools. A python command-line debugger is also in the python toolset.
 
 Sample TankSoar configuration files are stored in `tanksoar_configs/` as `.cnf` files and are used for the project.
 
