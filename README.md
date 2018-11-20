@@ -4,6 +4,7 @@ Project consists of a modified TankSoar project taken from [here](https://github
 Sample TankSoar configuration files are stored in `tanksoar_configs/` as `.cnf` files and are used for the project.
 
 The modified TankSoar in this project implements the following:
+
 |Feature  |Description  |
 |:--|:--|
 |Teams  |Tanks are on teams of either 0 or 1 which alternate as tanks are added.  |
