@@ -4,6 +4,7 @@ Project consists of a modified TankSoar project taken from [here](https://github
 Sample TankSoar configuration files are stored in `tanksoar_configs/` as `.cnf` files and are used for the project.
 
 The modified TankSoar in this project implements the following:
+
 |Feature  |Description  |
 |:--|:--|
 |Teams  |Tanks are on teams of either 0 or 1 which alternate as tanks are added.  |
@@ -48,6 +49,7 @@ Modify the file to point to the correct SOAR files to be used for their respecti
 
 ## Python Tools
 To use some of the python tools, required packages need to be installed before they can be used. The required packages are listed in `requirements.txt` and can be installed using the `pip` tool by running `pip install -r requirements.txt` or `python -m pip install requirements.txt`.
+
 |Tool|Description  |
 |:--|:--|
 |`state2dot.py`|Parse state output into graph plot  |
