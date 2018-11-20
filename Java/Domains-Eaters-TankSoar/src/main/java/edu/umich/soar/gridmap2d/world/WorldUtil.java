@@ -46,12 +46,14 @@ public class WorldUtil {
 				status = "loser";
 			}
 			String statline = player.getName() + ": " + player.getPoints() + " (" + status + ")";
+			logger.warn(statline);
 			logger.info(statline);
 			System.out.println(statline);
 			if(player instanceof Tank) {
 				Tank tankPlayer = (Tank)player;
 				String stats = "Run: " + Gridmap2D.control.getRunsTerminal() + " [Tank: " + tankPlayer.getName() + "] [Team: " + tankPlayer.getTeam() + "] [Points: " + tankPlayer.getPoints() + "] [Status: " + status +
 						"] [Kills: " + tankPlayer.getKills() + "] [Deaths: " + tankPlayer.getDeaths() + "] [Missiles Fired: " + tankPlayer.getMissilesUsed() + "] [Energy Used:" + tankPlayer.getEnergyUsed() + "]";
+				logger.warn(stats);
 				logger.info(stats);
 				System.out.println(stats);
 			}
