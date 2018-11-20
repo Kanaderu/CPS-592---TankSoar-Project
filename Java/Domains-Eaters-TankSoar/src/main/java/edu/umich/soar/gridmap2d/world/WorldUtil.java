@@ -50,7 +50,7 @@ public class WorldUtil {
 			System.out.println(statline);
 			if(player instanceof Tank) {
 				Tank tankPlayer = (Tank)player;
-				String stats = tankPlayer.getName() + " [Team: " + tankPlayer.getTeam() + "] [Points: " + tankPlayer.getPoints() + "] [Status: " + status +
+				String stats = "Run: " + Gridmap2D.control.getRunsTerminal() + " [Tank: " + tankPlayer.getName() + "] [Team: " + tankPlayer.getTeam() + "] [Points: " + tankPlayer.getPoints() + "] [Status: " + status +
 						"] [Kills: " + tankPlayer.getKills() + "] [Deaths: " + tankPlayer.getDeaths() + "] [Missiles Fired: " + tankPlayer.getMissilesUsed() + "] [Energy Used:" + tankPlayer.getEnergyUsed() + "]";
 				logger.info(stats);
 				System.out.println(stats);

@@ -1,0 +1,35 @@
+(S3 ^attribute operator ^choices none ^epmem E3 ^impasse no-change ^io I1
+       ^name attack ^operator O18 ^operator O18 + ^quiescence t
+       ^reward-link R12 ^smem L3 ^superstate S1 ^top-state S1 ^type state)
+  (E3 ^command C6 ^present-id 1 ^result R13)
+  (I1 ^input-link I2 ^output-link I3)
+    (I2 ^blocked B1 ^clock 1 ^current-score C3 ^direction east ^energy 987
+           ^energyrecharger no ^health 1000 ^healthrecharger no ^incoming I4
+           ^missiles 15 ^my-color red ^radar R11 ^radar-distance 6
+           ^radar-setting 13 ^radar-status on ^random 0.991501 ^resurrect no
+           ^rwaves R4 ^shield-status off ^smell I5 ^sound forward ^team 0 ^x 3
+           ^y 12)
+      (B1 ^backward no ^forward no ^left yes ^right yes)
+      (C3 ^red 0 ^yellow 0)
+      (I4 ^backward no ^forward no ^left no ^right no)
+      (R11 ^health H1 ^missiles M1 ^missiles M2 ^obstacle O14 ^obstacle O13
+             ^obstacle O4 ^obstacle O16 ^obstacle O11 ^obstacle O5
+             ^obstacle O3 ^obstacle O8 ^obstacle O12 ^obstacle O7 ^obstacle O6
+             ^obstacle O9 ^open O15 ^open O10 ^tank T1)
+        (T1 ^color yellow ^distance 6 ^position center ^team 1)
+      (R4 ^backward no ^forward no ^left no ^right no)
+      (I5 ^color yellow ^distance 6)
+    (I3 ^fire V4)
+      (V4 ^weapon missile)
+  (O18 ^actions A2 ^name fire-missile)
+    (A2 ^fire F1)
+      (F1 ^weapon missile)
+  (L3 ^command C7 ^result R14)
+  (S1 ^epmem E1 ^io I1 ^name tanksoar ^operator O17 ^operator O17 +
+         ^reward-link R1 ^side-direction I6 ^smem L1 ^superstate nil
+         ^top-state S1 ^type state)
+    (E1 ^command C1 ^present-id 1 ^result R2)
+    (O17 ^name attack)
+    (I6 ^backward right ^backward left ^forward left ^forward right
+           ^left forward ^left backward ^right backward ^right forward)
+    (L1 ^command C2 ^result R3)
