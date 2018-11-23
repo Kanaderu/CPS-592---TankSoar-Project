@@ -1,0 +1,17 @@
+# define game
+general.game = "tanksoar";
+general.map = "bin/games/maps/tanksoar/default.txt";
+general.runs = 200;
+general.headless = true;
+
+soar.spawn_debuggers = false;
+
+# define players
+players.active_players = [ "tank1", "tank2", "tank3", "tank4" ];
+players.tank1.productions = "productions/fallacyfallacy/my-bot.soar";
+players.tank2.productions = "productions/normal/tanksoar.soar";
+players.tank3.productions = "productions/fallacyfallacy/my-bot.soar";
+players.tank4.productions = "productions/normal/tanksoar.soar";
+
+# define winning score condition
+terminals.winning_score = 50;

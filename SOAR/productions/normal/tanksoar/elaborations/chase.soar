@@ -1,0 +1,7 @@
+sp {chase*elaborate*radar
+   (state <s> ^name chase
+              ^operator.actions <a>
+              ^io.input-link.radar-status off)
+-->
+   (<a> ^radar.switch on
+        ^radar-power.setting 13)}

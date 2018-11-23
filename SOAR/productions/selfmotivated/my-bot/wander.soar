@@ -1,0 +1,20 @@
+sp {propose*wander
+   (state <s> ^name tanksoar
+              ^io.input-link <io>)
+   (<io> ^sound silent
+        -^radar.tank
+        -^incoming.<dir> yes)
+-->
+   (<s> ^operator <o> +)
+   (<o> ^name wander)}
+
+sp {propose*wander*ally-tank
+   (state <s> ^name tanksoar
+              ^io.input-link <io>)
+   (<io> ^sound silent
+         ^team <my-team>
+         ^radar.tank.team <> <my-team>
+        -^incoming.<dir> yes)
+-->
+   (<s> ^operator <o> +)
+   (<o> ^name wander)}

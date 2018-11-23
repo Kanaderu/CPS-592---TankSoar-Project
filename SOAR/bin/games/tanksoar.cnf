@@ -1,0 +1,11 @@
+general.game = "tanksoar";
+general.map = "bin/games/maps/tanksoar/default.txt";
+#general.runs = 4;
+#general.headless = true;
+#players.active_players = [ "tank1", "tank2" ];
+#players.tank1.productions = "test_soar/simple-bot.soar";
+#players.tank2.productions = "test_soar/simple-bot.soar";
+#terminals.winning_score = 1;
+terminals.winning_score = 50;
+#terminals.fuel_remaining = true;
+#terminals.points_remaining = true;

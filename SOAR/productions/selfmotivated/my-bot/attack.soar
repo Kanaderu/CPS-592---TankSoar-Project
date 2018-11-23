@@ -1,0 +1,14 @@
+### Propose attack operator
+#  If the state is the top state, and there is a tank on radar, and health and energy are not low, then
+#  propose the attack operator.
+sp {propose*attack
+   (state <s> ^name tanksoar
+             -^missiles-energy low
+              ^io.input-link.team <my-team>
+              ^io.input-link.radar.tank.team <> <my-team>)
+-->
+   (<s> ^operator <o> + =)
+   (<o> ^name attack)}
+
+
+

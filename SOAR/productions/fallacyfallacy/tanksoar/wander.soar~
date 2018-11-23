@@ -1,0 +1,102 @@
+sp {propose*move
+   (state <s> #^name tanksoar
+              ^io.input-link.blocked.forward no)
+-->
+   (<s> ^operator <o> + =)
+   (<o> ^name move
+        ^actions.move.direction forward)
+}
+
+sp {propose*turn
+   (state <s> #^name tanksoar
+              ^io.input-link.blocked <b>)
+   (<b> ^forward yes
+        ^ { << left right >> <dir> } no)
+-->
+   (<s> ^operator <o> + =)
+   (<o> ^name turn
+        ^actions <a>)
+   (<a> ^rotate.direction <dir>
+        ^radar.switch on
+        ^radar-power.setting 13)}
+
+sp {propose*turn*backward
+   (state <s> #^name tanksoar
+              ^io.input-link.blocked <b>)
+   (<b> ^forward yes ^left yes ^right yes)
+-->
+   (<s> ^operator <o> +)
+   (<o> ^name turn
+        ^actions.rotate.direction left)}
+
+sp {propose*radar-off
+   (state <s> #^name tanksoar
+              ^io.input-link <il>)
+   (<il> ^radar-status on
+        -^radar.<< energy health missiles tank >>)
+-->
+   (<s> ^operator <o> +)
+   (<o> ^name radar-off
+        ^actions.radar.switch off)}
+
+sp {select*radar-off*move
+   (state <s> #^name tanksoar
+              ^operator <o1> +
+              ^operator <o2> +)
+   (<o1> ^name radar-off)
+   (<o2> ^name << turn move >>)
+-->
+   (<s> ^operator <o1> > <o2>)}
+
+##sp {apply*move*radar-off
+##   (state <s> ^name tanksoar
+##               ^operator <o>
+##              ^io.input-link <il>)
+##   (<il> ^radar-status on
+##        -^radar.<< energy health missiles tank >>)
+##   (<o> ^name << turn move >>
+##        ^actions <a>)
+##-->
+##    (<a> ^radar.switch off)}
+
+sp {propose*wander
+   (state <s> ^name tanksoar
+              ^io.input-link <io>)
+   (<io> ^sound silent
+        -^radar.tank
+        -^incoming.<dir> yes)
+-->
+   (<s> ^operator <o> +)
+   (<o> ^name wander)}
+
+sp {wander*propose*move
+   (state <s> ^name wander
+              ^io.input-link.blocked.forward no)
+-->
+   (<s> ^operator <o> + =)
+   (<o> ^name move
+        ^action.move.direction forward)}
+
+sp {wander*propose*turn
+   (state <s> ^name wander
+              ^io.input-link.blocked <b>)
+   (<b> ^forward yes
+        ^ { << left right >> <dir> } no)
+-->
+   (<s> ^operator <o> + =)
+   (<o> ^name turn
+        ^action <a>)
+   (<a> ^rotate.direction <dir>
+        ^radar.switch on
+        ^radar-power.setting 13)}
+
+sp {wander*propose*turn*backward
+   (state <s> ^name wander
+              ^io.input-link.blocked <b>)
+   (<b> ^forward yes
+        ^left yes
+        ^right yes)
+-->
+   (<s> ^operator <o> +)
+   (<o> ^name turn
+        ^actions.rotate.direction left)}
