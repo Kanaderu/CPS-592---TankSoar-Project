@@ -1,7 +1,7 @@
 # define game
 general.game = "tanksoar";
 general.map = "bin/games/maps/tanksoar/default.txt";
-general.runs = 200;
+general.runs = 100;
 general.headless = true;
 
 soar.spawn_debuggers = false;
