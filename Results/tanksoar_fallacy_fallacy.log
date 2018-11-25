@@ -1,0 +1,801 @@
+0    [main] WARN  com.commsen.stopwatch.Stopwatch  - Properties file stopwatch-engine.properties not found on classpath! Properties not set!
+16064 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 14 (loser)
+16065 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 100 [Tank: blue] [Team: 0] [Points: 14] [Status: loser] [Kills: 7] [Deaths: 12] [Missiles Fired: 37] [Energy Used:660]
+16065 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 34 (loser)
+16065 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 100 [Tank: red] [Team: 1] [Points: 34] [Status: loser] [Kills: 7] [Deaths: 4] [Missiles Fired: 33] [Energy Used:240]
+16065 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 53 (winner)
+16066 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 100 [Tank: yellow] [Team: 0] [Points: 53] [Status: winner] [Kills: 9] [Deaths: 7] [Missiles Fired: 80] [Energy Used:240]
+16067 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 23 (loser)
+16067 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 100 [Tank: green] [Team: 1] [Points: 23] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 31] [Energy Used:320]
+32298 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 25 (loser)
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 99 [Tank: blue] [Team: 0] [Points: 25] [Status: loser] [Kills: 10] [Deaths: 13] [Missiles Fired: 52] [Energy Used:640]
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 24 (loser)
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 99 [Tank: red] [Team: 1] [Points: 24] [Status: loser] [Kills: 5] [Deaths: 8] [Missiles Fired: 48] [Energy Used:800]
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 33 (loser)
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 99 [Tank: yellow] [Team: 0] [Points: 33] [Status: loser] [Kills: 5] [Deaths: 2] [Missiles Fired: 27] [Energy Used:40]
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 54 (winner)
+32299 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 99 [Tank: green] [Team: 1] [Points: 54] [Status: winner] [Kills: 8] [Deaths: 4] [Missiles Fired: 73] [Energy Used:400]
+49109 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 21 (loser)
+49109 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 98 [Tank: blue] [Team: 0] [Points: 21] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 48] [Energy Used:500]
+49109 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+49109 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 98 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 6] [Missiles Fired: 74] [Energy Used:1060]
+49109 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 26 (loser)
+49109 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 98 [Tank: yellow] [Team: 0] [Points: 26] [Status: loser] [Kills: 7] [Deaths: 8] [Missiles Fired: 42] [Energy Used:560]
+49110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 26 (loser)
+49110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 98 [Tank: green] [Team: 1] [Points: 26] [Status: loser] [Kills: 5] [Deaths: 3] [Missiles Fired: 36] [Energy Used:160]
+69587 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 16 (loser)
+69587 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 97 [Tank: blue] [Team: 0] [Points: 16] [Status: loser] [Kills: 4] [Deaths: 7] [Missiles Fired: 43] [Energy Used:340]
+69587 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+69587 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 97 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 7] [Missiles Fired: 68] [Energy Used:500]
+69588 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 27 (loser)
+69588 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 97 [Tank: yellow] [Team: 0] [Points: 27] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 52] [Energy Used:640]
+69588 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 37 (loser)
+69588 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 97 [Tank: green] [Team: 1] [Points: 37] [Status: loser] [Kills: 11] [Deaths: 9] [Missiles Fired: 58] [Energy Used:880]
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 33 (loser)
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 96 [Tank: blue] [Team: 0] [Points: 33] [Status: loser] [Kills: 8] [Deaths: 9] [Missiles Fired: 35] [Energy Used:380]
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 96 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 9] [Deaths: 9] [Missiles Fired: 50] [Energy Used:160]
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 38 (loser)
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 96 [Tank: yellow] [Team: 0] [Points: 38] [Status: loser] [Kills: 8] [Deaths: 6] [Missiles Fired: 58] [Energy Used:280]
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 18 (loser)
+89686 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 96 [Tank: green] [Team: 1] [Points: 18] [Status: loser] [Kills: 8] [Deaths: 8] [Missiles Fired: 35] [Energy Used:480]
+100390 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 41 (loser)
+100391 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 95 [Tank: blue] [Team: 0] [Points: 41] [Status: loser] [Kills: 4] [Deaths: 1] [Missiles Fired: 24] [Energy Used:80]
+100391 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 52 (winner)
+100391 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 95 [Tank: red] [Team: 1] [Points: 52] [Status: winner] [Kills: 10] [Deaths: 6] [Missiles Fired: 48] [Energy Used:120]
+100392 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -2 (loser)
+100392 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 95 [Tank: yellow] [Team: 0] [Points: -2] [Status: loser] [Kills: 1] [Deaths: 4] [Missiles Fired: 30] [Energy Used:180]
+100392 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -12 (loser)
+100392 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 95 [Tank: green] [Team: 1] [Points: -12] [Status: loser] [Kills: 3] [Deaths: 7] [Missiles Fired: 11] [Energy Used:500]
+103381 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -17 (loser)
+103381 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 94 [Tank: blue] [Team: 0] [Points: -17] [Status: loser] [Kills: 0] [Deaths: 4] [Missiles Fired: 3] [Energy Used:60]
+103381 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+103381 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 94 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 7] [Deaths: 1] [Missiles Fired: 34] [Energy Used:220]
+103381 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 5 (loser)
+103382 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 94 [Tank: yellow] [Team: 0] [Points: 5] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 19] [Energy Used:440]
+103382 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 19 (loser)
+103382 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 94 [Tank: green] [Team: 1] [Points: 19] [Status: loser] [Kills: 2] [Deaths: 2] [Missiles Fired: 22] [Energy Used:100]
+113278 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -2 (loser)
+113278 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 93 [Tank: blue] [Team: 0] [Points: -2] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 19] [Energy Used:200]
+113279 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 18 (loser)
+113279 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 93 [Tank: red] [Team: 1] [Points: 18] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 33] [Energy Used:160]
+113279 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 51 (winner)
+113279 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 93 [Tank: yellow] [Team: 0] [Points: 51] [Status: winner] [Kills: 10] [Deaths: 5] [Missiles Fired: 45] [Energy Used:140]
+113279 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 16 (loser)
+113279 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 93 [Tank: green] [Team: 1] [Points: 16] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 28] [Energy Used:200]
+130812 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 22 (loser)
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 92 [Tank: blue] [Team: 0] [Points: 22] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 33] [Energy Used:240]
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 52 (winner)
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 92 [Tank: red] [Team: 1] [Points: 52] [Status: winner] [Kills: 8] [Deaths: 6] [Missiles Fired: 66] [Energy Used:220]
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 29 (loser)
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 92 [Tank: yellow] [Team: 0] [Points: 29] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 58] [Energy Used:460]
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 10 (loser)
+130813 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 92 [Tank: green] [Team: 1] [Points: 10] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 28] [Energy Used:300]
+139269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 1 (loser)
+139269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 91 [Tank: blue] [Team: 0] [Points: 1] [Status: loser] [Kills: 3] [Deaths: 7] [Missiles Fired: 27] [Energy Used:240]
+139269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+139269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 91 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 2] [Missiles Fired: 37] [Energy Used:280]
+139270 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 7 (loser)
+139270 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 91 [Tank: yellow] [Team: 0] [Points: 7] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 33] [Energy Used:780]
+139270 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 23 (loser)
+139270 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 91 [Tank: green] [Team: 1] [Points: 23] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 31] [Energy Used:220]
+150848 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -4 (loser)
+150848 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 90 [Tank: blue] [Team: 0] [Points: -4] [Status: loser] [Kills: 0] [Deaths: 2] [Missiles Fired: 5] [Energy Used:60]
+150848 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 9 (loser)
+150848 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 90 [Tank: red] [Team: 1] [Points: 9] [Status: loser] [Kills: 3] [Deaths: 6] [Missiles Fired: 33] [Energy Used:480]
+150848 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 51 (winner)
+150849 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 90 [Tank: yellow] [Team: 0] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 47] [Energy Used:320]
+150849 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 15 (loser)
+150849 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 90 [Tank: green] [Team: 1] [Points: 15] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 29] [Energy Used:200]
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 18 (loser)
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 89 [Tank: blue] [Team: 0] [Points: 18] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 16] [Energy Used:160]
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 32 (loser)
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 89 [Tank: red] [Team: 1] [Points: 32] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 51] [Energy Used:300]
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 52 (winner)
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 89 [Tank: yellow] [Team: 0] [Points: 52] [Status: winner] [Kills: 10] [Deaths: 5] [Missiles Fired: 26] [Energy Used:40]
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -14 (loser)
+162110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 89 [Tank: green] [Team: 1] [Points: -14] [Status: loser] [Kills: 5] [Deaths: 10] [Missiles Fired: 17] [Energy Used:280]
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -3 (loser)
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 88 [Tank: blue] [Team: 0] [Points: -3] [Status: loser] [Kills: 5] [Deaths: 11] [Missiles Fired: 35] [Energy Used:440]
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 36 (loser)
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 88 [Tank: red] [Team: 1] [Points: 36] [Status: loser] [Kills: 6] [Deaths: 5] [Missiles Fired: 62] [Energy Used:640]
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 51 (winner)
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 88 [Tank: yellow] [Team: 0] [Points: 51] [Status: winner] [Kills: 13] [Deaths: 10] [Missiles Fired: 58] [Energy Used:360]
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 41 (loser)
+185400 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 88 [Tank: green] [Team: 1] [Points: 41] [Status: loser] [Kills: 8] [Deaths: 5] [Missiles Fired: 50] [Energy Used:80]
+199948 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 7 (loser)
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 87 [Tank: blue] [Team: 0] [Points: 7] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 22] [Energy Used:80]
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -2 (loser)
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 87 [Tank: red] [Team: 1] [Points: -2] [Status: loser] [Kills: 2] [Deaths: 5] [Missiles Fired: 27] [Energy Used:200]
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 87 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 6] [Missiles Fired: 61] [Energy Used:160]
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 47 (loser)
+199949 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 87 [Tank: green] [Team: 1] [Points: 47] [Status: loser] [Kills: 8] [Deaths: 6] [Missiles Fired: 42] [Energy Used:100]
+222302 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 34 (loser)
+222303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 86 [Tank: blue] [Team: 0] [Points: 34] [Status: loser] [Kills: 9] [Deaths: 10] [Missiles Fired: 52] [Energy Used:500]
+222303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 47 (loser)
+222303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 86 [Tank: red] [Team: 1] [Points: 47] [Status: loser] [Kills: 9] [Deaths: 7] [Missiles Fired: 47] [Energy Used:320]
+222303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+222304 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 86 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 11] [Deaths: 8] [Missiles Fired: 58] [Energy Used:220]
+222304 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 14 (loser)
+222304 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 86 [Tank: green] [Team: 1] [Points: 14] [Status: loser] [Kills: 5] [Deaths: 9] [Missiles Fired: 53] [Energy Used:420]
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 40 (loser)
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 85 [Tank: blue] [Team: 0] [Points: 40] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 45] [Energy Used:260]
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 85 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 7] [Missiles Fired: 61] [Energy Used:320]
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 23 (loser)
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 85 [Tank: yellow] [Team: 0] [Points: 23] [Status: loser] [Kills: 11] [Deaths: 14] [Missiles Fired: 65] [Energy Used:940]
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 45 (loser)
+246763 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 85 [Tank: green] [Team: 1] [Points: 45] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 80] [Energy Used:460]
+266601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 36 (loser)
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 84 [Tank: blue] [Team: 0] [Points: 36] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 36] [Energy Used:60]
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 13 (loser)
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 84 [Tank: red] [Team: 1] [Points: 13] [Status: loser] [Kills: 7] [Deaths: 9] [Missiles Fired: 55] [Energy Used:300]
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 47 (loser)
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 84 [Tank: yellow] [Team: 0] [Points: 47] [Status: loser] [Kills: 10] [Deaths: 9] [Missiles Fired: 49] [Energy Used:780]
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 50 (winner)
+266602 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 84 [Tank: green] [Team: 1] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 9] [Missiles Fired: 70] [Energy Used:600]
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 12 (loser)
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 83 [Tank: blue] [Team: 0] [Points: 12] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 18] [Energy Used:480]
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -3 (loser)
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 83 [Tank: red] [Team: 1] [Points: -3] [Status: loser] [Kills: 1] [Deaths: 4] [Missiles Fired: 17] [Energy Used:260]
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 54 (winner)
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 83 [Tank: yellow] [Team: 0] [Points: 54] [Status: winner] [Kills: 9] [Deaths: 5] [Missiles Fired: 51] [Energy Used:280]
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 8 (loser)
+274854 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 83 [Tank: green] [Team: 1] [Points: 8] [Status: loser] [Kills: 1] [Deaths: 2] [Missiles Fired: 23] [Energy Used:200]
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -10 (loser)
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 82 [Tank: blue] [Team: 0] [Points: -10] [Status: loser] [Kills: 1] [Deaths: 4] [Missiles Fired: 8] [Energy Used:240]
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 59 (winner)
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 82 [Tank: red] [Team: 1] [Points: 59] [Status: winner] [Kills: 8] [Deaths: 2] [Missiles Fired: 42] [Energy Used:100]
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 3 (loser)
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 82 [Tank: yellow] [Team: 0] [Points: 3] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 23] [Energy Used:240]
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 1 (loser)
+279922 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 82 [Tank: green] [Team: 1] [Points: 1] [Status: loser] [Kills: 1] [Deaths: 2] [Missiles Fired: 8] [Energy Used:80]
+294177 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 13 (loser)
+294177 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 81 [Tank: blue] [Team: 0] [Points: 13] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 22] [Energy Used:20]
+294178 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 11 (loser)
+294178 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 81 [Tank: red] [Team: 1] [Points: 11] [Status: loser] [Kills: 3] [Deaths: 3] [Missiles Fired: 18] [Energy Used:180]
+294178 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -5 (loser)
+294178 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 81 [Tank: yellow] [Team: 0] [Points: -5] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 22] [Energy Used:240]
+294181 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 53 (winner)
+294182 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 81 [Tank: green] [Team: 1] [Points: 53] [Status: winner] [Kills: 9] [Deaths: 7] [Missiles Fired: 46] [Energy Used:120]
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 37 (loser)
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 80 [Tank: blue] [Team: 0] [Points: 37] [Status: loser] [Kills: 6] [Deaths: 4] [Missiles Fired: 33] [Energy Used:340]
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 80 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 5] [Missiles Fired: 47] [Energy Used:340]
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 28 (loser)
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 80 [Tank: yellow] [Team: 0] [Points: 28] [Status: loser] [Kills: 8] [Deaths: 8] [Missiles Fired: 43] [Energy Used:340]
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 6 (loser)
+313049 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 80 [Tank: green] [Team: 1] [Points: 6] [Status: loser] [Kills: 5] [Deaths: 10] [Missiles Fired: 52] [Energy Used:540]
+328173 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 13 (loser)
+328174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 79 [Tank: blue] [Team: 0] [Points: 13] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 37] [Energy Used:260]
+328174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 22 (loser)
+328174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 79 [Tank: red] [Team: 1] [Points: 22] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 34] [Energy Used:260]
+328174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+328174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 79 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 3] [Missiles Fired: 37] [Energy Used:260]
+328174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 3 (loser)
+328175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 79 [Tank: green] [Team: 1] [Points: 3] [Status: loser] [Kills: 3] [Deaths: 6] [Missiles Fired: 23] [Energy Used:100]
+343134 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 16 (loser)
+343134 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 78 [Tank: blue] [Team: 0] [Points: 16] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 30] [Energy Used:560]
+343134 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+343134 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 78 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 4] [Missiles Fired: 66] [Energy Used:280]
+343134 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 4 (loser)
+343135 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 78 [Tank: yellow] [Team: 0] [Points: 4] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 38] [Energy Used:400]
+343135 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 24 (loser)
+343135 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 78 [Tank: green] [Team: 1] [Points: 24] [Status: loser] [Kills: 6] [Deaths: 5] [Missiles Fired: 21] [Energy Used:120]
+367217 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 52 (winner)
+367217 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 77 [Tank: blue] [Team: 0] [Points: 52] [Status: winner] [Kills: 7] [Deaths: 3] [Missiles Fired: 49] [Energy Used:260]
+367217 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 32 (loser)
+367218 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 77 [Tank: red] [Team: 1] [Points: 32] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 68] [Energy Used:320]
+367218 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 7 (loser)
+367218 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 77 [Tank: yellow] [Team: 0] [Points: 7] [Status: loser] [Kills: 5] [Deaths: 8] [Missiles Fired: 35] [Energy Used:1120]
+367218 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 10 (loser)
+367218 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 77 [Tank: green] [Team: 1] [Points: 10] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 35] [Energy Used:400]
+381094 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 5 (loser)
+381094 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 76 [Tank: blue] [Team: 0] [Points: 5] [Status: loser] [Kills: 4] [Deaths: 8] [Missiles Fired: 29] [Energy Used:700]
+381094 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -8 (loser)
+381094 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 76 [Tank: red] [Team: 1] [Points: -8] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 25] [Energy Used:480]
+381095 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 51 (winner)
+381095 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 76 [Tank: yellow] [Team: 0] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 4] [Missiles Fired: 58] [Energy Used:340]
+381095 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 41 (loser)
+381095 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 76 [Tank: green] [Team: 1] [Points: 41] [Status: loser] [Kills: 5] [Deaths: 3] [Missiles Fired: 48] [Energy Used:460]
+396820 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 11 (loser)
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 75 [Tank: blue] [Team: 0] [Points: 11] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 26] [Energy Used:260]
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 32 (loser)
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 75 [Tank: red] [Team: 1] [Points: 32] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 42] [Energy Used:280]
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 26 (loser)
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 75 [Tank: yellow] [Team: 0] [Points: 26] [Status: loser] [Kills: 9] [Deaths: 10] [Missiles Fired: 64] [Energy Used:580]
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 50 (winner)
+396821 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 75 [Tank: green] [Team: 1] [Points: 50] [Status: winner] [Kills: 10] [Deaths: 8] [Missiles Fired: 75] [Energy Used:620]
+408357 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 15 (loser)
+408357 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 74 [Tank: blue] [Team: 0] [Points: 15] [Status: loser] [Kills: 3] [Deaths: 3] [Missiles Fired: 23] [Energy Used:360]
+408357 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 40 (loser)
+408358 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 74 [Tank: red] [Team: 1] [Points: 40] [Status: loser] [Kills: 7] [Deaths: 4] [Missiles Fired: 38] [Energy Used:380]
+408358 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+408358 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 74 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 6] [Deaths: 5] [Missiles Fired: 63] [Energy Used:320]
+408358 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -14 (loser)
+408358 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 74 [Tank: green] [Team: 1] [Points: -14] [Status: loser] [Kills: 3] [Deaths: 7] [Missiles Fired: 21] [Energy Used:700]
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 32 (loser)
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 73 [Tank: blue] [Team: 0] [Points: 32] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 36] [Energy Used:460]
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 32 (loser)
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 73 [Tank: red] [Team: 1] [Points: 32] [Status: loser] [Kills: 7] [Deaths: 8] [Missiles Fired: 58] [Energy Used:580]
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 31 (loser)
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 73 [Tank: yellow] [Team: 0] [Points: 31] [Status: loser] [Kills: 8] [Deaths: 9] [Missiles Fired: 54] [Energy Used:620]
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+426601 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 73 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 5] [Missiles Fired: 66] [Energy Used:320]
+441137 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 13 (loser)
+441137 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 72 [Tank: blue] [Team: 0] [Points: 13] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 25] [Energy Used:40]
+441137 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+441137 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 72 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 6] [Missiles Fired: 56] [Energy Used:380]
+441137 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 24 (loser)
+441138 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 72 [Tank: yellow] [Team: 0] [Points: 24] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 43] [Energy Used:440]
+441138 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 22 (loser)
+441138 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 72 [Tank: green] [Team: 1] [Points: 22] [Status: loser] [Kills: 7] [Deaths: 8] [Missiles Fired: 43] [Energy Used:360]
+449593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 51 (winner)
+449593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 71 [Tank: blue] [Team: 0] [Points: 51] [Status: winner] [Kills: 6] [Deaths: 3] [Missiles Fired: 35] [Energy Used:100]
+449593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -12 (loser)
+449593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 71 [Tank: red] [Team: 1] [Points: -12] [Status: loser] [Kills: 2] [Deaths: 4] [Missiles Fired: 8] [Energy Used:200]
+449593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 4 (loser)
+449593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 71 [Tank: yellow] [Team: 0] [Points: 4] [Status: loser] [Kills: 2] [Deaths: 2] [Missiles Fired: 9] [Energy Used:100]
+449594 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 4 (loser)
+449594 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 71 [Tank: green] [Team: 1] [Points: 4] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 23] [Energy Used:240]
+458865 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -5 (loser)
+458865 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 70 [Tank: blue] [Team: 0] [Points: -5] [Status: loser] [Kills: 4] [Deaths: 7] [Missiles Fired: 19] [Energy Used:260]
+458865 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -7 (loser)
+458865 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 70 [Tank: red] [Team: 1] [Points: -7] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 20] [Energy Used:600]
+458866 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+458866 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 70 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 38] [Energy Used:1220]
+458866 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 33 (loser)
+458866 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 70 [Tank: green] [Team: 1] [Points: 33] [Status: loser] [Kills: 4] [Deaths: 2] [Missiles Fired: 42] [Energy Used:440]
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 14 (loser)
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 69 [Tank: blue] [Team: 0] [Points: 14] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 16] [Energy Used:740]
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 12 (loser)
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 69 [Tank: red] [Team: 1] [Points: 12] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 17] [Energy Used:300]
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -4 (loser)
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 69 [Tank: yellow] [Team: 0] [Points: -4] [Status: loser] [Kills: 4] [Deaths: 7] [Missiles Fired: 19] [Energy Used:260]
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+467593 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 69 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 3] [Missiles Fired: 37] [Energy Used:240]
+475611 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 19 (loser)
+475611 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 68 [Tank: blue] [Team: 0] [Points: 19] [Status: loser] [Kills: 2] [Deaths: 1] [Missiles Fired: 20] [Energy Used:340]
+475611 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+475611 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 68 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 6] [Deaths: 5] [Missiles Fired: 56] [Energy Used:840]
+475612 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 7 (loser)
+475612 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 68 [Tank: yellow] [Team: 0] [Points: 7] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 28] [Energy Used:480]
+475612 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 7 (loser)
+475612 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 68 [Tank: green] [Team: 1] [Points: 7] [Status: loser] [Kills: 2] [Deaths: 2] [Missiles Fired: 10] [Energy Used:180]
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 17 (loser)
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 67 [Tank: blue] [Team: 0] [Points: 17] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 32] [Energy Used:460]
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 25 (loser)
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 67 [Tank: red] [Team: 1] [Points: 25] [Status: loser] [Kills: 4] [Deaths: 2] [Missiles Fired: 33] [Energy Used:160]
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 54 (winner)
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 67 [Tank: yellow] [Team: 0] [Points: 54] [Status: winner] [Kills: 8] [Deaths: 5] [Missiles Fired: 58] [Energy Used:300]
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -9 (loser)
+487718 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 67 [Tank: green] [Team: 1] [Points: -9] [Status: loser] [Kills: 4] [Deaths: 8] [Missiles Fired: 27] [Energy Used:380]
+506897 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 18 (loser)
+506897 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 66 [Tank: blue] [Team: 0] [Points: 18] [Status: loser] [Kills: 6] [Deaths: 6] [Missiles Fired: 27] [Energy Used:380]
+506897 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 40 (loser)
+506898 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 66 [Tank: red] [Team: 1] [Points: 40] [Status: loser] [Kills: 9] [Deaths: 10] [Missiles Fired: 64] [Energy Used:220]
+506898 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+506898 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 66 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 7] [Missiles Fired: 64] [Energy Used:320]
+506898 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 34 (loser)
+506898 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 66 [Tank: green] [Team: 1] [Points: 34] [Status: loser] [Kills: 8] [Deaths: 8] [Missiles Fired: 43] [Energy Used:780]
+516842 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 21 (loser)
+516842 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 65 [Tank: blue] [Team: 0] [Points: 21] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 25] [Energy Used:240]
+516842 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -6 (loser)
+516843 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 65 [Tank: red] [Team: 1] [Points: -6] [Status: loser] [Kills: 3] [Deaths: 7] [Missiles Fired: 41] [Energy Used:480]
+516843 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 40 (loser)
+516843 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 65 [Tank: yellow] [Team: 0] [Points: 40] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 59] [Energy Used:340]
+516843 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+516843 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 65 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 5] [Missiles Fired: 49] [Energy Used:640]
+531161 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 19 (loser)
+531161 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 64 [Tank: blue] [Team: 0] [Points: 19] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 22] [Energy Used:300]
+531161 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+531161 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 64 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 4] [Missiles Fired: 62] [Energy Used:220]
+531162 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 18 (loser)
+531162 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 64 [Tank: yellow] [Team: 0] [Points: 18] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 49] [Energy Used:680]
+531162 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 12 (loser)
+531162 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 64 [Tank: green] [Team: 1] [Points: 12] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 39] [Energy Used:260]
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 30 (loser)
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 63 [Tank: blue] [Team: 0] [Points: 30] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 41] [Energy Used:320]
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 63 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 7] [Missiles Fired: 54] [Energy Used:820]
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 12 (loser)
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 63 [Tank: yellow] [Team: 0] [Points: 12] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 51] [Energy Used:240]
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 42 (loser)
+546732 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 63 [Tank: green] [Team: 1] [Points: 42] [Status: loser] [Kills: 7] [Deaths: 7] [Missiles Fired: 79] [Energy Used:520]
+553631 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 7 (loser)
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 62 [Tank: blue] [Team: 0] [Points: 7] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 17] [Energy Used:220]
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 11 (loser)
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 62 [Tank: red] [Team: 1] [Points: 11] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 26] [Energy Used:280]
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -4 (loser)
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 62 [Tank: yellow] [Team: 0] [Points: -4] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 13] [Energy Used:180]
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 50 (winner)
+553632 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 62 [Tank: green] [Team: 1] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 3] [Missiles Fired: 42] [Energy Used:60]
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 17 (loser)
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 61 [Tank: blue] [Team: 0] [Points: 17] [Status: loser] [Kills: 3] [Deaths: 1] [Missiles Fired: 23] [Energy Used:280]
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 61 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 5] [Deaths: 4] [Missiles Fired: 63] [Energy Used:380]
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 22 (loser)
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 61 [Tank: yellow] [Team: 0] [Points: 22] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 48] [Energy Used:400]
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 5 (loser)
+567473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 61 [Tank: green] [Team: 1] [Points: 5] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 37] [Energy Used:540]
+571619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -7 (loser)
+571619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 60 [Tank: blue] [Team: 0] [Points: -7] [Status: loser] [Kills: 1] [Deaths: 4] [Missiles Fired: 5] [Energy Used:120]
+571619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+571619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 60 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 6] [Deaths: 0] [Missiles Fired: 27] [Energy Used:240]
+571619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -6 (loser)
+571619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 60 [Tank: yellow] [Team: 0] [Points: -6] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 5] [Energy Used:40]
+571620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 5 (loser)
+571620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 60 [Tank: green] [Team: 1] [Points: 5] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 24] [Energy Used:220]
+589659 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 21 (loser)
+589659 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 59 [Tank: blue] [Team: 0] [Points: 21] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 37] [Energy Used:220]
+589660 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+589660 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 59 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 5] [Missiles Fired: 60] [Energy Used:520]
+589660 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 17 (loser)
+589660 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 59 [Tank: yellow] [Team: 0] [Points: 17] [Status: loser] [Kills: 5] [Deaths: 9] [Missiles Fired: 41] [Energy Used:960]
+589660 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 46 (loser)
+589660 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 59 [Tank: green] [Team: 1] [Points: 46] [Status: loser] [Kills: 9] [Deaths: 8] [Missiles Fired: 67] [Energy Used:300]
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 1 (loser)
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 58 [Tank: blue] [Team: 0] [Points: 1] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 24] [Energy Used:160]
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 58 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 6] [Missiles Fired: 39] [Energy Used:180]
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 14 (loser)
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 58 [Tank: yellow] [Team: 0] [Points: 14] [Status: loser] [Kills: 9] [Deaths: 10] [Missiles Fired: 35] [Energy Used:260]
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 38 (loser)
+604232 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 58 [Tank: green] [Team: 1] [Points: 38] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 49] [Energy Used:600]
+615475 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 0 (loser)
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 57 [Tank: blue] [Team: 0] [Points: 0] [Status: loser] [Kills: 3] [Deaths: 6] [Missiles Fired: 23] [Energy Used:220]
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 19 (loser)
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 57 [Tank: red] [Team: 1] [Points: 19] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 38] [Energy Used:380]
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 57 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 3] [Missiles Fired: 47] [Energy Used:140]
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 7 (loser)
+615476 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 57 [Tank: green] [Team: 1] [Points: 7] [Status: loser] [Kills: 3] [Deaths: 3] [Missiles Fired: 15] [Energy Used:460]
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 17 (loser)
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 56 [Tank: blue] [Team: 0] [Points: 17] [Status: loser] [Kills: 7] [Deaths: 10] [Missiles Fired: 40] [Energy Used:340]
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 10 (loser)
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 56 [Tank: red] [Team: 1] [Points: 10] [Status: loser] [Kills: 5] [Deaths: 9] [Missiles Fired: 40] [Energy Used:320]
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 41 (loser)
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 56 [Tank: yellow] [Team: 0] [Points: 41] [Status: loser] [Kills: 6] [Deaths: 4] [Missiles Fired: 47] [Energy Used:80]
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+630818 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 56 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 3] [Missiles Fired: 41] [Energy Used:300]
+645268 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 13 (loser)
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 55 [Tank: blue] [Team: 0] [Points: 13] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 29] [Energy Used:400]
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -18 (loser)
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 55 [Tank: red] [Team: 1] [Points: -18] [Status: loser] [Kills: 4] [Deaths: 8] [Missiles Fired: 14] [Energy Used:280]
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 53 (winner)
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 55 [Tank: yellow] [Team: 0] [Points: 53] [Status: winner] [Kills: 9] [Deaths: 6] [Missiles Fired: 43] [Energy Used:220]
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 48 (loser)
+645269 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 55 [Tank: green] [Team: 1] [Points: 48] [Status: loser] [Kills: 8] [Deaths: 5] [Missiles Fired: 59] [Energy Used:1020]
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -22 (loser)
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 54 [Tank: blue] [Team: 0] [Points: -22] [Status: loser] [Kills: 2] [Deaths: 9] [Missiles Fired: 20] [Energy Used:500]
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 36 (loser)
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 54 [Tank: red] [Team: 1] [Points: 36] [Status: loser] [Kills: 6] [Deaths: 6] [Missiles Fired: 66] [Energy Used:360]
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 37 (loser)
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 54 [Tank: yellow] [Team: 0] [Points: 37] [Status: loser] [Kills: 5] [Deaths: 3] [Missiles Fired: 36] [Energy Used:240]
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 53 (winner)
+660877 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 54 [Tank: green] [Team: 1] [Points: 53] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 48] [Energy Used:460]
+677396 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 1 (loser)
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 53 [Tank: blue] [Team: 0] [Points: 1] [Status: loser] [Kills: 2] [Deaths: 5] [Missiles Fired: 23] [Energy Used:240]
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 9 (loser)
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 53 [Tank: red] [Team: 1] [Points: 9] [Status: loser] [Kills: 5] [Deaths: 8] [Missiles Fired: 30] [Energy Used:500]
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 31 (loser)
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 53 [Tank: yellow] [Team: 0] [Points: 31] [Status: loser] [Kills: 6] [Deaths: 4] [Missiles Fired: 46] [Energy Used:240]
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 52 (winner)
+677397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 53 [Tank: green] [Team: 1] [Points: 52] [Status: winner] [Kills: 8] [Deaths: 4] [Missiles Fired: 48] [Energy Used:560]
+687828 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 17 (loser)
+687828 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 52 [Tank: blue] [Team: 0] [Points: 17] [Status: loser] [Kills: 4] [Deaths: 2] [Missiles Fired: 18] [Energy Used:300]
+687829 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 23 (loser)
+687829 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 52 [Tank: red] [Team: 1] [Points: 23] [Status: loser] [Kills: 6] [Deaths: 6] [Missiles Fired: 33] [Energy Used:280]
+687829 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 4 (loser)
+687829 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 52 [Tank: yellow] [Team: 0] [Points: 4] [Status: loser] [Kills: 4] [Deaths: 8] [Missiles Fired: 43] [Energy Used:420]
+687829 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 52 (winner)
+687829 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 52 [Tank: green] [Team: 1] [Points: 52] [Status: winner] [Kills: 8] [Deaths: 6] [Missiles Fired: 49] [Energy Used:320]
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -21 (loser)
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 51 [Tank: blue] [Team: 0] [Points: -21] [Status: loser] [Kills: 1] [Deaths: 6] [Missiles Fired: 22] [Energy Used:200]
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 51 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 4] [Missiles Fired: 61] [Energy Used:560]
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 31 (loser)
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 51 [Tank: yellow] [Team: 0] [Points: 31] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 43] [Energy Used:300]
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 30 (loser)
+704322 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 51 [Tank: green] [Team: 1] [Points: 30] [Status: loser] [Kills: 5] [Deaths: 3] [Missiles Fired: 50] [Energy Used:320]
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -18 (loser)
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 50 [Tank: blue] [Team: 0] [Points: -18] [Status: loser] [Kills: 2] [Deaths: 7] [Missiles Fired: 12] [Energy Used:20]
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 24 (loser)
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 50 [Tank: red] [Team: 1] [Points: 24] [Status: loser] [Kills: 7] [Deaths: 9] [Missiles Fired: 41] [Energy Used:340]
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 48 (loser)
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 50 [Tank: yellow] [Team: 0] [Points: 48] [Status: loser] [Kills: 7] [Deaths: 4] [Missiles Fired: 55] [Energy Used:340]
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 52 (winner)
+717518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 50 [Tank: green] [Team: 1] [Points: 52] [Status: winner] [Kills: 12] [Deaths: 8] [Missiles Fired: 73] [Energy Used:440]
+731472 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 11 (loser)
+731472 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 49 [Tank: blue] [Team: 0] [Points: 11] [Status: loser] [Kills: 5] [Deaths: 8] [Missiles Fired: 23] [Energy Used:240]
+731473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 29 (loser)
+731473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 49 [Tank: red] [Team: 1] [Points: 29] [Status: loser] [Kills: 9] [Deaths: 10] [Missiles Fired: 40] [Energy Used:280]
+731473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 51 (winner)
+731473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 49 [Tank: yellow] [Team: 0] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 30] [Energy Used:60]
+731473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 21 (loser)
+731473 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 49 [Tank: green] [Team: 1] [Points: 21] [Status: loser] [Kills: 9] [Deaths: 10] [Missiles Fired: 40] [Energy Used:80]
+742518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 14 (loser)
+742518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 48 [Tank: blue] [Team: 0] [Points: 14] [Status: loser] [Kills: 7] [Deaths: 10] [Missiles Fired: 33] [Energy Used:240]
+742518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 24 (loser)
+742518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 48 [Tank: red] [Team: 1] [Points: 24] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 25] [Energy Used:820]
+742518 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 15 (loser)
+742519 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 48 [Tank: yellow] [Team: 0] [Points: 15] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 23] [Energy Used:240]
+742519 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 53 (winner)
+742519 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 48 [Tank: green] [Team: 1] [Points: 53] [Status: winner] [Kills: 9] [Deaths: 7] [Missiles Fired: 46] [Energy Used:160]
+749417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -15 (loser)
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 47 [Tank: blue] [Team: 0] [Points: -15] [Status: loser] [Kills: 2] [Deaths: 7] [Missiles Fired: 19] [Energy Used:360]
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 10 (loser)
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 47 [Tank: red] [Team: 1] [Points: 10] [Status: loser] [Kills: 3] [Deaths: 3] [Missiles Fired: 16] [Energy Used:180]
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 53 (winner)
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 47 [Tank: yellow] [Team: 0] [Points: 53] [Status: winner] [Kills: 8] [Deaths: 1] [Missiles Fired: 35] [Energy Used:140]
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 20 (loser)
+749418 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 47 [Tank: green] [Team: 1] [Points: 20] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 27] [Energy Used:260]
+757211 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -12 (loser)
+757211 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 46 [Tank: blue] [Team: 0] [Points: -12] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 14] [Energy Used:80]
+757211 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 42 (loser)
+757211 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 46 [Tank: red] [Team: 1] [Points: 42] [Status: loser] [Kills: 7] [Deaths: 5] [Missiles Fired: 50] [Energy Used:80]
+757211 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -3 (loser)
+757212 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 46 [Tank: yellow] [Team: 0] [Points: -3] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 22] [Energy Used:360]
+757212 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 54 (winner)
+757212 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 46 [Tank: green] [Team: 1] [Points: 54] [Status: winner] [Kills: 9] [Deaths: 5] [Missiles Fired: 46] [Energy Used:160]
+762567 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -15 (loser)
+762567 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 45 [Tank: blue] [Team: 0] [Points: -15] [Status: loser] [Kills: 1] [Deaths: 4] [Missiles Fired: 6] [Energy Used:180]
+762568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+762568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 45 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 3] [Missiles Fired: 53] [Energy Used:740]
+762568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 44 (loser)
+762568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 45 [Tank: yellow] [Team: 0] [Points: 44] [Status: loser] [Kills: 5] [Deaths: 1] [Missiles Fired: 28] [Energy Used:20]
+762568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -21 (loser)
+762568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 45 [Tank: green] [Team: 1] [Points: -21] [Status: loser] [Kills: 1] [Deaths: 6] [Missiles Fired: 8] [Energy Used:100]
+770106 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 11 (loser)
+770106 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 44 [Tank: blue] [Team: 0] [Points: 11] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 16] [Energy Used:240]
+770107 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -7 (loser)
+770107 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 44 [Tank: red] [Team: 1] [Points: -7] [Status: loser] [Kills: 1] [Deaths: 4] [Missiles Fired: 23] [Energy Used:60]
+770107 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 53 (winner)
+770107 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 44 [Tank: yellow] [Team: 0] [Points: 53] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 34] [Energy Used:100]
+770107 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 1 (loser)
+770107 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 44 [Tank: green] [Team: 1] [Points: 1] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 18] [Energy Used:140]
+779482 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 8 (loser)
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 43 [Tank: blue] [Team: 0] [Points: 8] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 21] [Energy Used:360]
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 34 (loser)
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 43 [Tank: red] [Team: 1] [Points: 34] [Status: loser] [Kills: 6] [Deaths: 5] [Missiles Fired: 37] [Energy Used:80]
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 15 (loser)
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 43 [Tank: yellow] [Team: 0] [Points: 15] [Status: loser] [Kills: 7] [Deaths: 8] [Missiles Fired: 36] [Energy Used:520]
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+779483 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 43 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 6] [Deaths: 4] [Missiles Fired: 63] [Energy Used:300]
+792085 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 16 (loser)
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 42 [Tank: blue] [Team: 0] [Points: 16] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 30] [Energy Used:300]
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 10 (loser)
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 42 [Tank: red] [Team: 1] [Points: 10] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 49] [Energy Used:700]
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 42 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 7] [Missiles Fired: 71] [Energy Used:640]
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 45 (loser)
+792086 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 42 [Tank: green] [Team: 1] [Points: 45] [Status: loser] [Kills: 8] [Deaths: 6] [Missiles Fired: 52] [Energy Used:580]
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 30 (loser)
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 41 [Tank: blue] [Team: 0] [Points: 30] [Status: loser] [Kills: 6] [Deaths: 3] [Missiles Fired: 26] [Energy Used:40]
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -6 (loser)
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 41 [Tank: red] [Team: 1] [Points: -6] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 18] [Energy Used:120]
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 41 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 6] [Missiles Fired: 56] [Energy Used:200]
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 10 (loser)
+802704 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 41 [Tank: green] [Team: 1] [Points: 10] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 19] [Energy Used:80]
+814513 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 53 (winner)
+814513 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 40 [Tank: blue] [Team: 0] [Points: 53] [Status: winner] [Kills: 7] [Deaths: 1] [Missiles Fired: 28] [Energy Used:160]
+814513 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 8 (loser)
+814514 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 40 [Tank: red] [Team: 1] [Points: 8] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 32] [Energy Used:220]
+814514 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 28 (loser)
+814514 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 40 [Tank: yellow] [Team: 0] [Points: 28] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 49] [Energy Used:360]
+814514 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 9 (loser)
+814514 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 40 [Tank: green] [Team: 1] [Points: 9] [Status: loser] [Kills: 3] [Deaths: 6] [Missiles Fired: 52] [Energy Used:560]
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 28 (loser)
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 39 [Tank: blue] [Team: 0] [Points: 28] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 33] [Energy Used:380]
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 3 (loser)
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 39 [Tank: red] [Team: 1] [Points: 3] [Status: loser] [Kills: 2] [Deaths: 7] [Missiles Fired: 44] [Energy Used:960]
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 51 (winner)
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 39 [Tank: yellow] [Team: 0] [Points: 51] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 52] [Energy Used:680]
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 8 (loser)
+825652 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 39 [Tank: green] [Team: 1] [Points: 8] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 25] [Energy Used:260]
+833574 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 11 (loser)
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 38 [Tank: blue] [Team: 0] [Points: 11] [Status: loser] [Kills: 6] [Deaths: 7] [Missiles Fired: 32] [Energy Used:360]
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 40 (loser)
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 38 [Tank: red] [Team: 1] [Points: 40] [Status: loser] [Kills: 8] [Deaths: 8] [Missiles Fired: 56] [Energy Used:740]
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 13 (loser)
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 38 [Tank: yellow] [Team: 0] [Points: 13] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 19] [Energy Used:60]
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 54 (winner)
+833575 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 38 [Tank: green] [Team: 1] [Points: 54] [Status: winner] [Kills: 10] [Deaths: 8] [Missiles Fired: 69] [Energy Used:720]
+850448 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 50 (winner)
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 37 [Tank: blue] [Team: 0] [Points: 50] [Status: winner] [Kills: 9] [Deaths: 8] [Missiles Fired: 58] [Energy Used:300]
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 40 (loser)
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 37 [Tank: red] [Team: 1] [Points: 40] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 63] [Energy Used:760]
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 19 (loser)
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 37 [Tank: yellow] [Team: 0] [Points: 19] [Status: loser] [Kills: 10] [Deaths: 14] [Missiles Fired: 58] [Energy Used:580]
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 43 (loser)
+850449 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 37 [Tank: green] [Team: 1] [Points: 43] [Status: loser] [Kills: 7] [Deaths: 5] [Missiles Fired: 50] [Energy Used:340]
+856307 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 3 (loser)
+856307 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 36 [Tank: blue] [Team: 0] [Points: 3] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 28] [Energy Used:320]
+856307 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+856307 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 36 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 6] [Deaths: 1] [Missiles Fired: 41] [Energy Used:220]
+856308 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 1 (loser)
+856308 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 36 [Tank: yellow] [Team: 0] [Points: 1] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 13] [Energy Used:100]
+856308 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 32 (loser)
+856308 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 36 [Tank: green] [Team: 1] [Points: 32] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 29] [Energy Used:380]
+866084 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -10 (loser)
+866084 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 35 [Tank: blue] [Team: 0] [Points: -10] [Status: loser] [Kills: 4] [Deaths: 9] [Missiles Fired: 23] [Energy Used:340]
+866084 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 34 (loser)
+866084 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 35 [Tank: red] [Team: 1] [Points: 34] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 36] [Energy Used:320]
+866084 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 42 (loser)
+866084 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 35 [Tank: yellow] [Team: 0] [Points: 42] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 47] [Energy Used:360]
+866085 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+866085 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 35 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 11] [Deaths: 7] [Missiles Fired: 65] [Energy Used:720]
+873297 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 7 (loser)
+873297 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 34 [Tank: blue] [Team: 0] [Points: 7] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 25] [Energy Used:220]
+873297 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 8 (loser)
+873297 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 34 [Tank: red] [Team: 1] [Points: 8] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 23] [Energy Used:620]
+873297 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 33 (loser)
+873297 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 34 [Tank: yellow] [Team: 0] [Points: 33] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 48] [Energy Used:480]
+873298 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 50 (winner)
+873298 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 34 [Tank: green] [Team: 1] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 5] [Missiles Fired: 59] [Energy Used:520]
+886416 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 34 (loser)
+886416 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 33 [Tank: blue] [Team: 0] [Points: 34] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 27] [Energy Used:340]
+886417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+886417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 33 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 10] [Deaths: 8] [Missiles Fired: 65] [Energy Used:140]
+886417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 9 (loser)
+886417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 33 [Tank: yellow] [Team: 0] [Points: 9] [Status: loser] [Kills: 7] [Deaths: 11] [Missiles Fired: 46] [Energy Used:340]
+886417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 41 (loser)
+886417 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 33 [Tank: green] [Team: 1] [Points: 41] [Status: loser] [Kills: 8] [Deaths: 6] [Missiles Fired: 49] [Energy Used:660]
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -1 (loser)
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 32 [Tank: blue] [Team: 0] [Points: -1] [Status: loser] [Kills: 2] [Deaths: 4] [Missiles Fired: 22] [Energy Used:300]
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 22 (loser)
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 32 [Tank: red] [Team: 1] [Points: 22] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 33] [Energy Used:180]
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 52 (winner)
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 32 [Tank: yellow] [Team: 0] [Points: 52] [Status: winner] [Kills: 8] [Deaths: 4] [Missiles Fired: 55] [Energy Used:600]
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 0 (loser)
+893517 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 32 [Tank: green] [Team: 1] [Points: 0] [Status: loser] [Kills: 2] [Deaths: 4] [Missiles Fired: 17] [Energy Used:80]
+907266 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 41 (loser)
+907266 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 31 [Tank: blue] [Team: 0] [Points: 41] [Status: loser] [Kills: 8] [Deaths: 7] [Missiles Fired: 33] [Energy Used:300]
+907266 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+907266 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 31 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 10] [Deaths: 6] [Missiles Fired: 54] [Energy Used:80]
+907267 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 39 (loser)
+907267 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 31 [Tank: yellow] [Team: 0] [Points: 39] [Status: loser] [Kills: 9] [Deaths: 8] [Missiles Fired: 42] [Energy Used:40]
+907267 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -3 (loser)
+907267 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 31 [Tank: green] [Team: 1] [Points: -3] [Status: loser] [Kills: 7] [Deaths: 13] [Missiles Fired: 45] [Energy Used:80]
+915174 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -15 (loser)
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 30 [Tank: blue] [Team: 0] [Points: -15] [Status: loser] [Kills: 2] [Deaths: 7] [Missiles Fired: 25] [Energy Used:200]
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 30 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 3] [Missiles Fired: 39] [Energy Used:140]
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 27 (loser)
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 30 [Tank: yellow] [Team: 0] [Points: 27] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 47] [Energy Used:1040]
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 22 (loser)
+915175 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 30 [Tank: green] [Team: 1] [Points: 22] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 60] [Energy Used:500]
+924328 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 24 (loser)
+924328 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 29 [Tank: blue] [Team: 0] [Points: 24] [Status: loser] [Kills: 6] [Deaths: 5] [Missiles Fired: 33] [Energy Used:460]
+924328 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 10 (loser)
+924329 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 29 [Tank: red] [Team: 1] [Points: 10] [Status: loser] [Kills: 3] [Deaths: 7] [Missiles Fired: 29] [Energy Used:420]
+924329 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 6 (loser)
+924329 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 29 [Tank: yellow] [Team: 0] [Points: 6] [Status: loser] [Kills: 4] [Deaths: 7] [Missiles Fired: 41] [Energy Used:480]
+924329 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+924329 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 29 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 6] [Deaths: 0] [Missiles Fired: 47] [Energy Used:100]
+937079 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 21 (loser)
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 28 [Tank: blue] [Team: 0] [Points: 21] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 31] [Energy Used:340]
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 46 (loser)
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 28 [Tank: red] [Team: 1] [Points: 46] [Status: loser] [Kills: 11] [Deaths: 10] [Missiles Fired: 69] [Energy Used:520]
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 43 (loser)
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 28 [Tank: yellow] [Team: 0] [Points: 43] [Status: loser] [Kills: 11] [Deaths: 13] [Missiles Fired: 82] [Energy Used:720]
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+937080 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 28 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 11] [Deaths: 7] [Missiles Fired: 75] [Energy Used:780]
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -9 (loser)
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 27 [Tank: blue] [Team: 0] [Points: -9] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 25] [Energy Used:680]
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 27 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 4] [Missiles Fired: 51] [Energy Used:380]
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 13 (loser)
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 27 [Tank: yellow] [Team: 0] [Points: 13] [Status: loser] [Kills: 4] [Deaths: 4] [Missiles Fired: 18] [Energy Used:300]
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 18 (loser)
+945395 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 27 [Tank: green] [Team: 1] [Points: 18] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 17] [Energy Used:460]
+957784 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -5 (loser)
+957784 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 26 [Tank: blue] [Team: 0] [Points: -5] [Status: loser] [Kills: 3] [Deaths: 9] [Missiles Fired: 27] [Energy Used:640]
+957784 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+957785 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 26 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 7] [Deaths: 2] [Missiles Fired: 61] [Energy Used:420]
+957785 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 32 (loser)
+957785 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 26 [Tank: yellow] [Team: 0] [Points: 32] [Status: loser] [Kills: 8] [Deaths: 8] [Missiles Fired: 54] [Energy Used:780]
+957785 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 25 (loser)
+957785 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 26 [Tank: green] [Team: 1] [Points: 25] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 46] [Energy Used:200]
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -5 (loser)
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 25 [Tank: blue] [Team: 0] [Points: -5] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 17] [Energy Used:540]
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 18 (loser)
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 25 [Tank: red] [Team: 1] [Points: 18] [Status: loser] [Kills: 6] [Deaths: 6] [Missiles Fired: 33] [Energy Used:380]
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 25 (loser)
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 25 [Tank: yellow] [Team: 0] [Points: 25] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 75] [Energy Used:180]
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 52 (winner)
+969573 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 25 [Tank: green] [Team: 1] [Points: 52] [Status: winner] [Kills: 7] [Deaths: 3] [Missiles Fired: 35] [Energy Used:180]
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 9 (loser)
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 24 [Tank: blue] [Team: 0] [Points: 9] [Status: loser] [Kills: 5] [Deaths: 8] [Missiles Fired: 31] [Energy Used:280]
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 42 (loser)
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 24 [Tank: red] [Team: 1] [Points: 42] [Status: loser] [Kills: 6] [Deaths: 2] [Missiles Fired: 37] [Energy Used:80]
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -1 (loser)
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 24 [Tank: yellow] [Team: 0] [Points: -1] [Status: loser] [Kills: 4] [Deaths: 8] [Missiles Fired: 45] [Energy Used:100]
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 53 (winner)
+977964 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 24 [Tank: green] [Team: 1] [Points: 53] [Status: winner] [Kills: 8] [Deaths: 5] [Missiles Fired: 67] [Energy Used:180]
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 21 (loser)
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 23 [Tank: blue] [Team: 0] [Points: 21] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 33] [Energy Used:860]
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 32 (loser)
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 23 [Tank: red] [Team: 1] [Points: 32] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 49] [Energy Used:460]
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 9 (loser)
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 23 [Tank: yellow] [Team: 0] [Points: 9] [Status: loser] [Kills: 3] [Deaths: 8] [Missiles Fired: 55] [Energy Used:640]
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+993092 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 23 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 8] [Deaths: 4] [Missiles Fired: 70] [Energy Used:500]
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 5 (loser)
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 22 [Tank: blue] [Team: 0] [Points: 5] [Status: loser] [Kills: 4] [Deaths: 6] [Missiles Fired: 28] [Energy Used:440]
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 26 (loser)
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 22 [Tank: red] [Team: 1] [Points: 26] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 24] [Energy Used:100]
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 22 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 6] [Deaths: 3] [Missiles Fired: 46] [Energy Used:400]
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -7 (loser)
+1000928 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 22 [Tank: green] [Team: 1] [Points: -7] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 9] [Energy Used:260]
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 12 (loser)
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 21 [Tank: blue] [Team: 0] [Points: 12] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 24] [Energy Used:80]
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 21 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 11] [Deaths: 7] [Missiles Fired: 58] [Energy Used:240]
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 34 (loser)
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 21 [Tank: yellow] [Team: 0] [Points: 34] [Status: loser] [Kills: 9] [Deaths: 11] [Missiles Fired: 48] [Energy Used:500]
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 11 (loser)
+1012675 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 21 [Tank: green] [Team: 1] [Points: 11] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 34] [Energy Used:200]
+1027619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 34 (loser)
+1027619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 20 [Tank: blue] [Team: 0] [Points: 34] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 42] [Energy Used:580]
+1027619 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+1027620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 20 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 10] [Deaths: 10] [Missiles Fired: 79] [Energy Used:520]
+1027620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 29 (loser)
+1027620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 20 [Tank: yellow] [Team: 0] [Points: 29] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 61] [Energy Used:520]
+1027620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 39 (loser)
+1027620 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 20 [Tank: green] [Team: 1] [Points: 39] [Status: loser] [Kills: 9] [Deaths: 6] [Missiles Fired: 49] [Energy Used:780]
+1031082 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 5 (loser)
+1031082 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 19 [Tank: blue] [Team: 0] [Points: 5] [Status: loser] [Kills: 5] [Deaths: 6] [Missiles Fired: 13] [Energy Used:140]
+1031082 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 8 (loser)
+1031082 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 19 [Tank: red] [Team: 1] [Points: 8] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 14] [Energy Used:40]
+1031083 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+1031083 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 19 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 4] [Missiles Fired: 47] [Energy Used:200]
+1031083 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 5 (loser)
+1031083 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 19 [Tank: green] [Team: 1] [Points: 5] [Status: loser] [Kills: 2] [Deaths: 2] [Missiles Fired: 10] [Energy Used:340]
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 5 (loser)
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 18 [Tank: blue] [Team: 0] [Points: 5] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 23] [Energy Used:800]
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 35 (loser)
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 18 [Tank: red] [Team: 1] [Points: 35] [Status: loser] [Kills: 5] [Deaths: 4] [Missiles Fired: 31] [Energy Used:240]
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 28 (loser)
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 18 [Tank: yellow] [Team: 0] [Points: 28] [Status: loser] [Kills: 10] [Deaths: 12] [Missiles Fired: 70] [Energy Used:620]
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 50 (winner)
+1047397 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 18 [Tank: green] [Team: 1] [Points: 50] [Status: winner] [Kills: 11] [Deaths: 8] [Missiles Fired: 69] [Energy Used:440]
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 6 (loser)
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 17 [Tank: blue] [Team: 0] [Points: 6] [Status: loser] [Kills: 4] [Deaths: 5] [Missiles Fired: 16] [Energy Used:80]
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 4 (loser)
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 17 [Tank: red] [Team: 1] [Points: 4] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 16] [Energy Used:160]
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 25 (loser)
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 17 [Tank: yellow] [Team: 0] [Points: 25] [Status: loser] [Kills: 6] [Deaths: 6] [Missiles Fired: 27] [Energy Used:40]
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 54 (winner)
+1052303 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 17 [Tank: green] [Team: 1] [Points: 54] [Status: winner] [Kills: 7] [Deaths: 4] [Missiles Fired: 52] [Energy Used:140]
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 18 (loser)
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 16 [Tank: blue] [Team: 0] [Points: 18] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 20] [Energy Used:80]
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 9 (loser)
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 16 [Tank: red] [Team: 1] [Points: 9] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 29] [Energy Used:800]
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 22 (loser)
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 16 [Tank: yellow] [Team: 0] [Points: 22] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 31] [Energy Used:180]
+1064568 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 52 (winner)
+1064569 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 16 [Tank: green] [Team: 1] [Points: 52] [Status: winner] [Kills: 9] [Deaths: 8] [Missiles Fired: 73] [Energy Used:740]
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 8 (loser)
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 15 [Tank: blue] [Team: 0] [Points: 8] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 23] [Energy Used:320]
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 15 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 10] [Deaths: 5] [Missiles Fired: 45] [Energy Used:380]
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 17 (loser)
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 15 [Tank: yellow] [Team: 0] [Points: 17] [Status: loser] [Kills: 3] [Deaths: 3] [Missiles Fired: 26] [Energy Used:280]
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 6 (loser)
+1074007 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 15 [Tank: green] [Team: 1] [Points: 6] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 48] [Energy Used:140]
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 32 (loser)
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 14 [Tank: blue] [Team: 0] [Points: 32] [Status: loser] [Kills: 9] [Deaths: 8] [Missiles Fired: 40] [Energy Used:380]
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 11 (loser)
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 14 [Tank: red] [Team: 1] [Points: 11] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 53] [Energy Used:220]
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 29 (loser)
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 14 [Tank: yellow] [Team: 0] [Points: 29] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 46] [Energy Used:360]
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 50 (winner)
+1085059 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 14 [Tank: green] [Team: 1] [Points: 50] [Status: winner] [Kills: 7] [Deaths: 5] [Missiles Fired: 50] [Energy Used:560]
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 11 (loser)
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 13 [Tank: blue] [Team: 0] [Points: 11] [Status: loser] [Kills: 1] [Deaths: 2] [Missiles Fired: 19] [Energy Used:140]
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: -9 (loser)
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 13 [Tank: red] [Team: 1] [Points: -9] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 12] [Energy Used:300]
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -3 (loser)
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 13 [Tank: yellow] [Team: 0] [Points: -3] [Status: loser] [Kills: 0] [Deaths: 2] [Missiles Fired: 10] [Energy Used:80]
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 51 (winner)
+1089330 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 13 [Tank: green] [Team: 1] [Points: 51] [Status: winner] [Kills: 6] [Deaths: 0] [Missiles Fired: 30] [Energy Used:280]
+1095110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 11 (loser)
+1095110 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 12 [Tank: blue] [Team: 0] [Points: 11] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 24] [Energy Used:240]
+1095111 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+1095111 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 12 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 6] [Deaths: 2] [Missiles Fired: 39] [Energy Used:240]
+1095111 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -5 (loser)
+1095111 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 12 [Tank: yellow] [Team: 0] [Points: -5] [Status: loser] [Kills: 2] [Deaths: 4] [Missiles Fired: 26] [Energy Used:1000]
+1095111 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 3 (loser)
+1095111 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 12 [Tank: green] [Team: 1] [Points: 3] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 25] [Energy Used:420]
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 21 (loser)
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 11 [Tank: blue] [Team: 0] [Points: 21] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 25] [Energy Used:180]
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 11 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 11] [Deaths: 10] [Missiles Fired: 77] [Energy Used:280]
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 30 (loser)
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 11 [Tank: yellow] [Team: 0] [Points: 30] [Status: loser] [Kills: 12] [Deaths: 13] [Missiles Fired: 70] [Energy Used:780]
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 35 (loser)
+1108656 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 11 [Tank: green] [Team: 1] [Points: 35] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 44] [Energy Used:380]
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 4 (loser)
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 10 [Tank: blue] [Team: 0] [Points: 4] [Status: loser] [Kills: 4] [Deaths: 7] [Missiles Fired: 20] [Energy Used:320]
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 51 (winner)
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 10 [Tank: red] [Team: 1] [Points: 51] [Status: winner] [Kills: 9] [Deaths: 5] [Missiles Fired: 41] [Energy Used:340]
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 24 (loser)
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 10 [Tank: yellow] [Team: 0] [Points: 24] [Status: loser] [Kills: 5] [Deaths: 3] [Missiles Fired: 37] [Energy Used:440]
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 2 (loser)
+1117941 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 10 [Tank: green] [Team: 1] [Points: 2] [Status: loser] [Kills: 3] [Deaths: 5] [Missiles Fired: 26] [Energy Used:520]
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -6 (loser)
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 9 [Tank: blue] [Team: 0] [Points: -6] [Status: loser] [Kills: 3] [Deaths: 6] [Missiles Fired: 20] [Energy Used:440]
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 9 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 7] [Missiles Fired: 65] [Energy Used:200]
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 44 (loser)
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 9 [Tank: yellow] [Team: 0] [Points: 44] [Status: loser] [Kills: 9] [Deaths: 7] [Missiles Fired: 52] [Energy Used:540]
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 15 (loser)
+1129727 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 9 [Tank: green] [Team: 1] [Points: 15] [Status: loser] [Kills: 5] [Deaths: 5] [Missiles Fired: 42] [Energy Used:280]
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 28 (loser)
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 8 [Tank: blue] [Team: 0] [Points: 28] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 25] [Energy Used:120]
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 8 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 8] [Deaths: 2] [Missiles Fired: 56] [Energy Used:320]
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 9 (loser)
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 8 [Tank: yellow] [Team: 0] [Points: 9] [Status: loser] [Kills: 5] [Deaths: 7] [Missiles Fired: 27] [Energy Used:240]
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: -17 (loser)
+1138875 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 8 [Tank: green] [Team: 1] [Points: -17] [Status: loser] [Kills: 3] [Deaths: 8] [Missiles Fired: 11] [Energy Used:120]
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 51 (winner)
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 7 [Tank: blue] [Team: 0] [Points: 51] [Status: winner] [Kills: 10] [Deaths: 8] [Missiles Fired: 68] [Energy Used:680]
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 21 (loser)
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 7 [Tank: red] [Team: 1] [Points: 21] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 53] [Energy Used:400]
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 30 (loser)
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 7 [Tank: yellow] [Team: 0] [Points: 30] [Status: loser] [Kills: 6] [Deaths: 8] [Missiles Fired: 60] [Energy Used:440]
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 46 (loser)
+1152510 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 7 [Tank: green] [Team: 1] [Points: 46] [Status: loser] [Kills: 10] [Deaths: 8] [Missiles Fired: 65] [Energy Used:420]
+1164754 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 18 (loser)
+1164754 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 6 [Tank: blue] [Team: 0] [Points: 18] [Status: loser] [Kills: 6] [Deaths: 6] [Missiles Fired: 28] [Energy Used:20]
+1164754 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 50 (winner)
+1164754 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 6 [Tank: red] [Team: 1] [Points: 50] [Status: winner] [Kills: 5] [Deaths: 2] [Missiles Fired: 44] [Energy Used:380]
+1164755 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: -9 (loser)
+1164755 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 6 [Tank: yellow] [Team: 0] [Points: -9] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 15] [Energy Used:260]
+1164755 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 39 (loser)
+1164755 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 6 [Tank: green] [Team: 1] [Points: 39] [Status: loser] [Kills: 10] [Deaths: 8] [Missiles Fired: 69] [Energy Used:420]
+1172706 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 3 (loser)
+1172706 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 5 [Tank: blue] [Team: 0] [Points: 3] [Status: loser] [Kills: 2] [Deaths: 6] [Missiles Fired: 32] [Energy Used:280]
+1172707 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+1172707 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 5 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 7] [Deaths: 0] [Missiles Fired: 45] [Energy Used:80]
+1172707 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 5 (loser)
+1172707 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 5 [Tank: yellow] [Team: 0] [Points: 5] [Status: loser] [Kills: 2] [Deaths: 3] [Missiles Fired: 9] [Energy Used:0]
+1172707 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 1 (loser)
+1172707 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 5 [Tank: green] [Team: 1] [Points: 1] [Status: loser] [Kills: 1] [Deaths: 3] [Missiles Fired: 32] [Energy Used:440]
+1181240 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 50 (winner)
+1181240 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 4 [Tank: blue] [Team: 0] [Points: 50] [Status: winner] [Kills: 5] [Deaths: 3] [Missiles Fired: 37] [Energy Used:360]
+1181240 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 18 (loser)
+1181241 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 4 [Tank: red] [Team: 1] [Points: 18] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 36] [Energy Used:620]
+1181241 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 31 (loser)
+1181241 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 4 [Tank: yellow] [Team: 0] [Points: 31] [Status: loser] [Kills: 7] [Deaths: 6] [Missiles Fired: 31] [Energy Used:180]
+1181241 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 5 (loser)
+1181241 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 4 [Tank: green] [Team: 1] [Points: 5] [Status: loser] [Kills: 7] [Deaths: 11] [Missiles Fired: 42] [Energy Used:340]
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 12 (loser)
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 3 [Tank: blue] [Team: 0] [Points: 12] [Status: loser] [Kills: 7] [Deaths: 9] [Missiles Fired: 26] [Energy Used:280]
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 3 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 11] [Deaths: 10] [Missiles Fired: 57] [Energy Used:380]
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 28 (loser)
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 3 [Tank: yellow] [Team: 0] [Points: 28] [Status: loser] [Kills: 7] [Deaths: 8] [Missiles Fired: 35] [Energy Used:260]
+1193154 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 48 (loser)
+1193155 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 3 [Tank: green] [Team: 1] [Points: 48] [Status: loser] [Kills: 11] [Deaths: 9] [Missiles Fired: 69] [Energy Used:180]
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: -22 (loser)
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 2 [Tank: blue] [Team: 0] [Points: -22] [Status: loser] [Kills: 1] [Deaths: 7] [Missiles Fired: 11] [Energy Used:180]
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 53 (winner)
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 2 [Tank: red] [Team: 1] [Points: 53] [Status: winner] [Kills: 8] [Deaths: 4] [Missiles Fired: 48] [Energy Used:500]
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 40 (loser)
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 2 [Tank: yellow] [Team: 0] [Points: 40] [Status: loser] [Kills: 5] [Deaths: 2] [Missiles Fired: 27] [Energy Used:200]
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 3 (loser)
+1196666 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 2 [Tank: green] [Team: 1] [Points: 3] [Status: loser] [Kills: 3] [Deaths: 4] [Missiles Fired: 19] [Energy Used:200]
+1205661 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - blue: 10 (loser)
+1205661 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 1 [Tank: blue] [Team: 0] [Points: 10] [Status: loser] [Kills: 4] [Deaths: 3] [Missiles Fired: 20] [Energy Used:320]
+1205661 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - red: 29 (loser)
+1205662 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 1 [Tank: red] [Team: 1] [Points: 29] [Status: loser] [Kills: 8] [Deaths: 10] [Missiles Fired: 59] [Energy Used:540]
+1205662 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - yellow: 50 (winner)
+1205662 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 1 [Tank: yellow] [Team: 0] [Points: 50] [Status: winner] [Kills: 8] [Deaths: 6] [Missiles Fired: 54] [Energy Used:420]
+1205662 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - green: 32 (loser)
+1205662 [main] WARN  edu.umich.soar.gridmap2d.world.WorldUtil  - Run: 1 [Tank: green] [Team: 1] [Points: 32] [Status: loser] [Kills: 6] [Deaths: 5] [Missiles Fired: 55] [Energy Used:440]
