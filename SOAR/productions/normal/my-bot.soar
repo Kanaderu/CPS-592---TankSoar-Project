@@ -1,0 +1,3 @@
+pushd my-bot
+source my-bot_source.soar
+popd

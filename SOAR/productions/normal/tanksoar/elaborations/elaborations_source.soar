@@ -1,6 +1,0 @@
-source _all.soar
-source chase.soar
-source retreat.soar
-source shields.soar
-source tanks.soar
-source top-state.soar
