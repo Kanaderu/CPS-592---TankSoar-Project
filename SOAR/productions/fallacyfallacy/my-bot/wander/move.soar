@@ -1,0 +1,7 @@
+sp {wander*propose*move
+   (state <s> ^superstate.operator.name wander
+              ^io.input-link.blocked.forward no)
+-->
+   (<s> ^operator <o> + =)
+   (<o> ^name move
+        ^actions.move.direction forward)}
