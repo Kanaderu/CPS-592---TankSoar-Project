@@ -1,5 +1,7 @@
 import re
 import pandas as pd
+import sys
+
 
 rx_dict = {
     'run': re.compile(r'Run: (?P<run>[0-9]+) '),
@@ -50,8 +52,8 @@ def parse_file(filepath):
 
 
 if __name__ == '__main__':
-    filepath = 'tanksoar.log'
-    output_file = 'tanksoar.csv'
+    filepath = sys.argv[1]
+    output_file = filepath.replace('.log', '.csv')
     data = parse_file(filepath)
     data.to_csv(output_file)
     print(data)
